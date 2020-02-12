@@ -1,0 +1,6337 @@
+{
+    "Desert Fury": {
+        "primary": "Desert Fury",
+        "id": "tt0717370",
+        "year": "1958"
+    },
+    "Fant\u00f4mas - \u00c0 l'ombre de la guillotine": {
+        "primary": "Fant\u00f4mas: In the Shadow of the Guillotine",
+        "id": "tt0002844",
+        "year": 1913
+    },
+    "Iluminacja": {
+        "primary": "The Illumination",
+        "id": "tt0070217",
+        "year": "1973"
+    },
+    "The Lodger": {
+        "primary": "The Lodger",
+        "id": "tt7674108",
+        "year": "2017"
+    },
+    "Poselenie": {
+        "primary": "The Settlement",
+        "id": "tt0290031",
+        "year": "2002"
+    },
+    "Leave Her to Heaven": {
+        "primary": "Leave Her to Heaven",
+        "id": "tt4928582",
+        "year": "1959"
+    },
+    "Obyknovennyy fashizm": {
+        "primary": "Triumph Over Violence",
+        "id": "tt0059529",
+        "year": 1965
+    },
+    "The Incredible Shrinking Man": {
+        "primary": "The Incredible Shrinking Man",
+        "id": "tt6354928",
+        "year": "1989"
+    },
+    "Berlin": {
+        "primary": "Berlin",
+        "id": "tt9798400",
+        "year": "\\N"
+    },
+    "Manhunter": {
+        "primary": "Manhunter",
+        "id": "tt6881240",
+        "year": "2017"
+    },
+    "Bakush\u00fb": {
+        "primary": "Early Summer",
+        "id": "tt0043313",
+        "year": 1951
+    },
+    "L'uccello dalle piume di cristallo": {
+        "primary": "The Bird with the Crystal Plumage",
+        "id": "tt0065143",
+        "year": 1970
+    },
+    "Sono yo no tsuma": {
+        "primary": "That Night's Wife",
+        "id": "tt0021406",
+        "year": 1930
+    },
+    "Nocturne": {
+        "primary": "Nocturne",
+        "id": "tt8751014",
+        "year": "2002"
+    },
+    "Macao": {
+        "primary": "Macao",
+        "id": "tt5283786",
+        "year": "2014"
+    },
+    "The Salvation Hunters": {
+        "primary": "The Salvation Hunters",
+        "id": "tt0016310",
+        "year": 1925
+    },
+    "Razgrom nemetskikh voysk pod Moskvoy": {
+        "primary": "Moscow Strikes Back",
+        "id": "tt0035085",
+        "year": 1942
+    },
+    "Die linksh\u00e4ndige Frau": {
+        "primary": "The Left-Handed Woman",
+        "id": "tt0076316",
+        "year": "1978"
+    },
+    "Circle of Danger": {
+        "primary": "Circle of Danger",
+        "id": "tt0043409",
+        "year": 1951
+    },
+    "Fury": {
+        "primary": "Fury",
+        "id": "tt9021096",
+        "year": "2003"
+    },
+    "Hogaraka ni ayume": {
+        "primary": "Walk Cheerfully",
+        "id": "tt0020980",
+        "year": 1930
+    },
+    "Il deserto dei tartari": {
+        "primary": "The Desert of the Tartars",
+        "id": "tt0074400",
+        "year": "1976"
+    },
+    "Diplomatic Courier": {
+        "primary": "Diplomatic Courier",
+        "id": "tt10474240",
+        "year": "\\N"
+    },
+    "Le jour se l\u00e8ve": {
+        "primary": "Le jour se l\u00e8ve",
+        "id": "tt10810308",
+        "year": "1970"
+    },
+    "Sciusci\u00e0": {
+        "primary": "Shoeshine",
+        "id": "tt0038913",
+        "year": 1946
+    },
+    "The Iron Horse": {
+        "primary": "The Iron Horse",
+        "id": "tt7318590",
+        "year": "1975"
+    },
+    "Zycie rodzinne": {
+        "primary": "Family Life",
+        "id": "tt0068021",
+        "year": "1971"
+    },
+    "I bambini ci guardano": {
+        "primary": "The Children Are Watching Us",
+        "id": "tt0034493",
+        "year": 1944
+    },
+    "Plemya": {
+        "primary": "The Tribe",
+        "id": "tt1745787",
+        "year": "2014"
+    },
+    "The Day the Earth Stood Still": {
+        "primary": "The Day the Earth Stood Still",
+        "id": "tt7010164",
+        "year": "2016"
+    },
+    "It Came from Outer Space": {
+        "primary": "It Came from Outer Space",
+        "id": "tt9310140",
+        "year": "2016"
+    },
+    "Few of Us": {
+        "primary": "Few of Us",
+        "id": "tt0116300",
+        "year": "1996"
+    },
+    "On Dangerous Ground": {
+        "primary": "On Dangerous Ground",
+        "id": "tt9354348",
+        "year": "\\N"
+    },
+    "H\u00f4tel du Nord": {
+        "primary": "H\u00f4tel du Nord",
+        "id": "tt6296002",
+        "year": "2006"
+    },
+    "Hotaru no haka": {
+        "primary": "Tombstone of the Fireflies",
+        "id": "tt1250968",
+        "year": "2008"
+    },
+    "Party Girl": {
+        "primary": "Party Girl",
+        "id": "tt9907068",
+        "year": "2009"
+    },
+    "Morocco": {
+        "primary": "Morocco",
+        "id": "tt9574320",
+        "year": "2019"
+    },
+    "It Happened One Night": {
+        "primary": "It Happened One Night",
+        "id": "tt9077244",
+        "year": "2018"
+    },
+    "Der blaue Engel": {
+        "primary": "The Blue Angel",
+        "id": "tt0020697",
+        "year": 1930
+    },
+    "La signora senza camelie": {
+        "primary": "The Lady Without Camelias",
+        "id": "tt0046313",
+        "year": 1953
+    },
+    "The Heiress": {
+        "primary": "The Heiress",
+        "id": "tt8398928",
+        "year": "\\N"
+    },
+    "Number Seventeen": {
+        "primary": "Number Seventeen",
+        "id": "tt4519064",
+        "year": "2015"
+    },
+    "Deux hommes dans Manhattan": {
+        "primary": "Two Men in Manhattan",
+        "id": "tt0052733",
+        "year": 1959
+    },
+    "Krotkaya": {
+        "primary": "A Gentle Creature",
+        "id": "tt5618752",
+        "year": "2017"
+    },
+    "Le signe du lion": {
+        "primary": "Le signe du lion",
+        "id": "tt0053279",
+        "year": 1962
+    },
+    "Hypocrites": {
+        "primary": "Hypocrites",
+        "id": "tt2209142",
+        "year": "2012"
+    },
+    "Bikur Ha-Tizmoret": {
+        "primary": "The Band's Visit",
+        "id": "tt1032856",
+        "year": "2007"
+    },
+    "Les anges du p\u00e9ch\u00e9": {
+        "primary": "Angels of Sin",
+        "id": "tt0035636",
+        "year": 1943
+    },
+    "Little Women": {
+        "primary": "Little Women",
+        "id": "tt6853528",
+        "year": "2017"
+    },
+    "Bob le flambeur": {
+        "primary": "Bob le Flambeur",
+        "id": "tt0047892",
+        "year": 1956
+    },
+    "Parenthesi": {
+        "primary": "Interlude",
+        "id": "tt0135591",
+        "year": "1968"
+    },
+    "Quand tu liras cette lettre": {
+        "primary": "When You Read This Letter",
+        "id": "tt0045981",
+        "year": 1953
+    },
+    "The Young Lions": {
+        "primary": "The Young Lions",
+        "id": "tt0052415",
+        "year": 1958
+    },
+    "Le m\u00e9pris": {
+        "primary": "Le m\u00e9pris",
+        "id": "tt1386634",
+        "year": "2009"
+    },
+    "Caged": {
+        "primary": "Caged",
+        "id": "tt9551406",
+        "year": "\\N"
+    },
+    "Le journal d'une femme de chambre": {
+        "primary": "Le journal d'une femme de chambre",
+        "id": "tt2181997",
+        "year": "2011"
+    },
+    "Die Gezeichneten": {
+        "primary": "Die Gezeichneten",
+        "id": "tt2081231",
+        "year": "1989"
+    },
+    "Blast of Silence": {
+        "primary": "Blast of Silence",
+        "id": "tt3576078",
+        "year": "2014"
+    },
+    "Bullitt": {
+        "primary": "Bullitt",
+        "id": "tt9104812",
+        "year": "2018"
+    },
+    "They Shoot Horses, Don't They?": {
+        "primary": "They Shoot Horses, Don't They?",
+        "id": "tt6370054",
+        "year": "1995"
+    },
+    "The Omen": {
+        "primary": "The Omen",
+        "id": "tt9408110",
+        "year": "2018"
+    },
+    "Le locataire": {
+        "primary": "A Bun in the Oven",
+        "id": "tt5114982",
+        "year": "2016"
+    },
+    "Svetat e golyam i spasenie debne otvsyakade": {
+        "primary": "The World is Big and Salvation Lurks Around the Corner",
+        "id": "tt1178197",
+        "year": "2008"
+    },
+    "The Gunfighter": {
+        "primary": "The Gunfighter",
+        "id": "tt3375370",
+        "year": "2014"
+    },
+    "Zimna wojna": {
+        "primary": "Zimna wojna",
+        "id": "tt9138116",
+        "year": "2018"
+    },
+    "The Exorcist": {
+        "primary": "The Exorcist",
+        "id": "tt6348722",
+        "year": "2013"
+    },
+    "The Jazz Singer": {
+        "primary": "The Jazz Singer",
+        "id": "tt5362676",
+        "year": "1977"
+    },
+    "The Whole Town's Talking": {
+        "primary": "The Whole Town's Talking",
+        "id": "tt0622650",
+        "year": "1949"
+    },
+    "Viridiana": {
+        "primary": "Viridiana",
+        "id": "tt8585264",
+        "year": "2019"
+    },
+    "Hell on Frisco Bay": {
+        "primary": "Hell on Frisco Bay",
+        "id": "tt0048158",
+        "year": 1955
+    },
+    "Hollow Triumph": {
+        "primary": "Hollow Triumph",
+        "id": "tt0557209",
+        "year": "1964"
+    },
+    "The Barefoot Contessa": {
+        "primary": "The Barefoot Contessa",
+        "id": "tt0046754",
+        "year": 1954
+    },
+    "Le petit Nicolas": {
+        "primary": "Le petit Nicolas",
+        "id": "tt1596130",
+        "year": "2009"
+    },
+    "Le conseguenze dell'amore": {
+        "primary": "Le conseguenze dell'amore",
+        "id": "tt2159977",
+        "year": "2011"
+    },
+    "Die Geschichte vom weinenden Kamel": {
+        "primary": "The Story of the Weeping Camel",
+        "id": "tt0373861",
+        "year": "2003"
+    },
+    "Deux jours \u00e0 tuer": {
+        "primary": "Love Me No More",
+        "id": "tt0996930",
+        "year": "2008"
+    },
+    "The Young One": {
+        "primary": "The Young One",
+        "id": "tt6666400",
+        "year": "2014"
+    },
+    "The Bad and the Beautiful": {
+        "primary": "The Bad and the Beautiful",
+        "id": "tt9114698",
+        "year": "2016"
+    },
+    "Le soulier de satin": {
+        "primary": "Le soulier de satin",
+        "id": "tt0330918",
+        "year": "1982"
+    },
+    "Peeping Tom": {
+        "primary": "Peeping Tom",
+        "id": "tt9067058",
+        "year": "2018"
+    },
+    "Les yeux sans visage": {
+        "primary": "Eyes Without a Face",
+        "id": "tt0053459",
+        "year": 1960
+    },
+    "Mystery Street": {
+        "primary": "Mystery Street",
+        "id": "tt0042771",
+        "year": 1950
+    },
+    "La fi\u00e8vre monte \u00e0 El Pao": {
+        "primary": "La fi\u00e8vre monte \u00e0 El Pao",
+        "id": "tt0219686",
+        "year": "1993"
+    },
+    "Village of the Damned": {
+        "primary": "Village of the Damned",
+        "id": "tt8035344",
+        "year": "2016"
+    },
+    "Nightmare Alley": {
+        "primary": "Nightmare Alley",
+        "id": "tt7740496",
+        "year": "\\N"
+    },
+    "A Blueprint for Murder": {
+        "primary": "A Blueprint for Murder",
+        "id": "tt0045566",
+        "year": 1953
+    },
+    "Frenzy": {
+        "primary": "Surrounded",
+        "id": "tt8805150",
+        "year": "2018"
+    },
+    "Network": {
+        "primary": "Network",
+        "id": "tt9086946",
+        "year": "2018"
+    },
+    "Invasion of the Body Snatchers": {
+        "primary": "Invasion of the Body Snatchers",
+        "id": "tt9905408",
+        "year": "1969"
+    },
+    "Deliverance": {
+        "primary": "Deliverance",
+        "id": "tt9207210",
+        "year": "2019"
+    },
+    "Ivan Groznyy. Skaz vtoroy: Boyarskiy zagovor": {
+        "primary": "Ivan the Terrible, Part II",
+        "id": "tt0051790",
+        "year": 1958
+    },
+    "Ivan Groznyy": {
+        "primary": "Ivan Groznyy",
+        "id": "tt1445871",
+        "year": "2009"
+    },
+    "Aleksandr Nevskiy": {
+        "primary": "Alexander Nevsky",
+        "id": "tt0029850",
+        "year": 1938
+    },
+    "Gaslight": {
+        "primary": "Gaslight",
+        "id": "tt9695682",
+        "year": "2017"
+    },
+    "Pitfall": {
+        "primary": "Pitfall",
+        "id": "tt7211802",
+        "year": "2017"
+    },
+    "Marnie": {
+        "primary": "Marnie",
+        "id": "tt7477356",
+        "year": "2017"
+    },
+    "The City of the Dead": {
+        "primary": "The City of the Dead",
+        "id": "tt3357138",
+        "year": "2013"
+    },
+    "Cheyenne Autumn": {
+        "primary": "Cheyenne Autumn",
+        "id": "tt0057940",
+        "year": 1964
+    },
+    "Duel": {
+        "primary": "Duel",
+        "id": "tt9471750",
+        "year": "1989"
+    },
+    "Ne imey 100 rubley...": {
+        "primary": "Ne imey 100 rubley...",
+        "id": "tt1446116",
+        "year": "1959"
+    },
+    "Sommarlek": {
+        "primary": "Summer Clouds",
+        "id": "tt2522200",
+        "year": "2004"
+    },
+    "La religieuse": {
+        "primary": "The Nun",
+        "id": "tt2215221",
+        "year": "2013"
+    },
+    "Subarashiki nichiy\u00f4bi": {
+        "primary": "One Wonderful Sunday",
+        "id": "tt0039871",
+        "year": 1947
+    },
+    "Before Sunrise": {
+        "primary": "Before Sunrise",
+        "id": "tt9110506",
+        "year": "2018"
+    },
+    "Cabiria": {
+        "primary": "Cabiria",
+        "id": "tt0003740",
+        "year": 1914
+    },
+    "Nazar\u00edn": {
+        "primary": "Nazarin",
+        "id": "tt0051983",
+        "year": 1959
+    },
+    "Hakai": {
+        "primary": "The Outcast",
+        "id": "tt0056051",
+        "year": 1962
+    },
+    "Three Strangers": {
+        "primary": "Three Strangers",
+        "id": "tt8916614",
+        "year": "2012"
+    },
+    "High Sierra": {
+        "primary": "High Sierra",
+        "id": "tt10902580",
+        "year": "1962"
+    },
+    "Ansatsu": {
+        "primary": "The Assassin",
+        "id": "tt2182254",
+        "year": "1996"
+    },
+    "Zoku Sugata Sanshir\u00f4": {
+        "primary": "Sanshiro Sugata, Part Two",
+        "id": "tt0038268",
+        "year": 1945
+    },
+    "The Alamo": {
+        "primary": "The Alamo",
+        "id": "tt6255484",
+        "year": "2014"
+    },
+    "Stage Fright": {
+        "primary": "Stage Fright",
+        "id": "tt9515336",
+        "year": "2015"
+    },
+    "The Desperate Hours": {
+        "primary": "The Desperate Hours",
+        "id": "tt4265384",
+        "year": "2015"
+    },
+    "Waga seishun ni kuinashi": {
+        "primary": "Waga seishun ni kuinashi",
+        "id": "tt3364690",
+        "year": "2004"
+    },
+    "Struktura krysztalu": {
+        "primary": "The Structure of Crystal",
+        "id": "tt0065043",
+        "year": 1969
+    },
+    "Kiss Me Deadly": {
+        "primary": "Kiss Me Deadly",
+        "id": "tt3876878",
+        "year": "2014"
+    },
+    "Philomena": {
+        "primary": "Philomena",
+        "id": "tt9636110",
+        "year": "\\N"
+    },
+    "Ladyhawke": {
+        "primary": "Ladyhawke",
+        "id": "tt9543346",
+        "year": "2014"
+    },
+    "Louis de Fun\u00e8s ou Le pouvoir de faire rire": {
+        "primary": "Louis de Fun\u00e8s ou Le pouvoir de faire rire",
+        "id": "tt0804908",
+        "year": "2003"
+    },
+    "Haishi": {
+        "primary": "Haishi",
+        "id": "tt3493288",
+        "year": "1921"
+    },
+    "Konopielka": {
+        "primary": "Konopielka",
+        "id": "tt0085807",
+        "year": "1982"
+    },
+    "Yesterday": {
+        "primary": "Yesterday",
+        "id": "tt9905870",
+        "year": "2017"
+    },
+    "Frances Ha": {
+        "primary": "Frances Ha",
+        "id": "tt2347569",
+        "year": "2012"
+    },
+    "Den nya m\u00e4nniskan": {
+        "primary": "The New Man",
+        "id": "tt0796236",
+        "year": "2007"
+    },
+    "I Wake Up Screaming": {
+        "primary": "I Wake Up Screaming",
+        "id": "tt0033740",
+        "year": 1941
+    },
+    "Red Dust": {
+        "primary": "Red Dust",
+        "id": "tt6299086",
+        "year": "2016"
+    },
+    "Detective Story": {
+        "primary": "Detective Story",
+        "id": "tt7211034",
+        "year": "\\N"
+    },
+    "Night and the City": {
+        "primary": "Night and the City",
+        "id": "tt6815190",
+        "year": "\\N"
+    },
+    "Smekh i gore u Bela morya": {
+        "primary": "Laughter and Grief by the White Sea",
+        "id": "tt0973837",
+        "year": "1987"
+    },
+    "Wings": {
+        "primary": "Wings",
+        "id": "tt9901630",
+        "year": "2019"
+    },
+    "Sprawa Gorgonowej": {
+        "primary": "Sprawa Gorgonowej",
+        "id": "tt0076750",
+        "year": "1977"
+    },
+    "Mononoke-hime": {
+        "primary": "Princess Mononoke",
+        "id": "tt0119698",
+        "year": "1997"
+    },
+    "La rabbia": {
+        "primary": "La rabbia",
+        "id": "tt5923054",
+        "year": "2015"
+    },
+    "Novogodnie priklyucheniya Mashi i Viti": {
+        "primary": "Novogodnie priklyucheniya Mashi i Viti",
+        "id": "tt0756321",
+        "year": "1975"
+    },
+    "Den solntsa i dozhdya": {
+        "primary": "Den solntsa i dozhdya",
+        "id": "tt0346915",
+        "year": "1968"
+    },
+    "Kurenai no buta": {
+        "primary": "Porco Rosso",
+        "id": "tt0104652",
+        "year": "1992"
+    },
+    "Hukkle": {
+        "primary": "Hukkle",
+        "id": "tt0289229",
+        "year": "2002"
+    },
+    "Sitcom": {
+        "primary": "Sitcom",
+        "id": "tt7433136",
+        "year": "2017"
+    },
+    "Moby Dick": {
+        "primary": "Moby Dick",
+        "id": "tt9399816",
+        "year": "2017"
+    },
+    "La mort en ce jardin": {
+        "primary": "Death in the Garden",
+        "id": "tt0049521",
+        "year": 1956
+    },
+    "Un petit monast\u00e8re en Toscane": {
+        "primary": "Un petit monast\u00e8re en Toscane",
+        "id": "tt0171863",
+        "year": "1988"
+    },
+    "Sono otoko, ky\u00f4b\u00f4 ni tsuki": {
+        "primary": "Violent Cop",
+        "id": "tt0098360",
+        "year": "1989"
+    },
+    "Being There": {
+        "primary": "Being There",
+        "id": "tt8819736",
+        "year": "2018"
+    },
+    "Kaze no tani no Naushika": {
+        "primary": "Nausica\u00e4 of the Valley of the Wind",
+        "id": "tt0087544",
+        "year": "1984"
+    },
+    "Daijiga umule pajinnal": {
+        "primary": "The Day a Pig Fell Into the Well",
+        "id": "tt0116005",
+        "year": "1996"
+    },
+    "Vivre sa vie: Film en douze tableaux": {
+        "primary": "Vivre Sa Vie",
+        "id": "tt0056663",
+        "year": 1962
+    },
+    "Cela s'appelle l'aurore": {
+        "primary": "That Is the Dawn",
+        "id": "tt0047925",
+        "year": 1956
+    },
+    "Les favoris de la lune": {
+        "primary": "Favourites of the Moon",
+        "id": "tt0087246",
+        "year": "1984"
+    },
+    "Carnival of Souls": {
+        "primary": "Carnival of Souls",
+        "id": "tt9916086",
+        "year": "1968"
+    },
+    "Road House": {
+        "primary": "Road House",
+        "id": "tt4928622",
+        "year": "1959"
+    },
+    "The Lost Patrol": {
+        "primary": "The Lost Patrol",
+        "id": "tt1127420",
+        "year": "2007"
+    },
+    "Foreign Correspondent": {
+        "primary": "Foreign Correspondent",
+        "id": "tt7243546",
+        "year": "2016"
+    },
+    "La Pointe-Courte": {
+        "primary": "La Pointe Courte",
+        "id": "tt0048499",
+        "year": 1955
+    },
+    "Tenk\u00fb no shiro Rapyuta": {
+        "primary": "Castle in the Sky",
+        "id": "tt0092067",
+        "year": "1986"
+    },
+    "Blade af Satans bog": {
+        "primary": "Leaves From Satan's Book",
+        "id": "tt0011000",
+        "year": 1920
+    },
+    "Tora no o wo fumu otokotachi": {
+        "primary": "The Men Who Tread on the Tiger's Tail",
+        "id": "tt0038182",
+        "year": 1945
+    },
+    "Whirlpool": {
+        "primary": "Whirlpool",
+        "id": "tt9497452",
+        "year": "2017"
+    },
+    "Ichiban utsukushiku": {
+        "primary": "The Most Beautiful",
+        "id": "tt0036947",
+        "year": 1944
+    },
+    "El r\u00edo y la muerte": {
+        "primary": "The River and Death",
+        "id": "tt0047435",
+        "year": 1954
+    },
+    "Otona no miru ehon - Umarete wa mita keredo": {
+        "primary": "I Was Born, But...",
+        "id": "tt0023634",
+        "year": 1932
+    },
+    "F\u00fasi": {
+        "primary": "Virgin Mountain",
+        "id": "tt2611652",
+        "year": "2015"
+    },
+    "The Good Heart": {
+        "primary": "The Good Heart",
+        "id": "tt0808285",
+        "year": "2009"
+    },
+    "Suddenly, Last Summer": {
+        "primary": "Suddenly, Last Summer",
+        "id": "tt2911820",
+        "year": "2013"
+    },
+    "Ty i ya": {
+        "primary": "You and Me",
+        "id": "tt0067894",
+        "year": "1971"
+    },
+    "Au hasard Balthazar": {
+        "primary": "Au Hasard Balthazar",
+        "id": "tt0060138",
+        "year": 1966
+    },
+    "Los olvidados": {
+        "primary": "Los olvidados",
+        "id": "tt8828808",
+        "year": "2018"
+    },
+    "Ensayo de un crimen": {
+        "primary": "Ensayo de un crimen",
+        "id": "tt0605305",
+        "year": "2002"
+    },
+    "Three Ages": {
+        "primary": "Three Ages",
+        "id": "tt0014538",
+        "year": 1923
+    },
+    "Cronaca di un amore": {
+        "primary": "Story of a Love Affair",
+        "id": "tt0042355",
+        "year": 1950
+    },
+    "Organ": {
+        "primary": "Organ",
+        "id": "tt2134111",
+        "year": "2011"
+    },
+    "Ninotchka": {
+        "primary": "Ninotchka",
+        "id": "tt1969588",
+        "year": "1953"
+    },
+    "Dharmaga tongjoguro kan kkadalgun": {
+        "primary": "Why Has Bodhi-Dharma Left for the East?",
+        "id": "tt0097195",
+        "year": "1989"
+    },
+    "Stanno tutti bene": {
+        "primary": "Everybody's Fine",
+        "id": "tt0100681",
+        "year": "1990"
+    },
+    "I vitelloni": {
+        "primary": "I Vitelloni",
+        "id": "tt0046521",
+        "year": 1953
+    },
+    "Maksim Perepelitsa": {
+        "primary": "Maksim Perepelitsa",
+        "id": "tt0048362",
+        "year": 1956
+    },
+    "Daibosatsu t\u00f4ge - Kanketsu-hen": {
+        "primary": "Daibosatsu t\u00f4ge - Kanketsu-hen",
+        "id": "tt0960752",
+        "year": "1959"
+    },
+    "Big": {
+        "primary": "Big",
+        "id": "tt8743092",
+        "year": "2017"
+    },
+    "Vice Versa": {
+        "primary": "Vice Versa",
+        "id": "tt8672356",
+        "year": "2019"
+    },
+    "Pulp Fiction": {
+        "primary": "Pulp Fiction",
+        "id": "tt9827888",
+        "year": "2018"
+    },
+    "Once Upon a Time in America": {
+        "primary": "Once Upon a Time in America",
+        "id": "tt0087843",
+        "year": "1984"
+    },
+    "The Birds": {
+        "primary": "The Birds",
+        "id": "tt6429970",
+        "year": "1962"
+    },
+    "Mamma Roma": {
+        "primary": "Mamma Roma",
+        "id": "tt0056215",
+        "year": 1962
+    },
+    "Daibosatsu t\u00f4ge": {
+        "primary": "Satan's Sword",
+        "id": "tt0409866",
+        "year": "1960"
+    },
+    "Zoku aoi sanmyaku": {
+        "primary": "Zoku aoi sanmyaku",
+        "id": "tt0429275",
+        "year": "1949"
+    },
+    "Aoi sanmyaku": {
+        "primary": "Aoi sanmyaku",
+        "id": "tt1545577",
+        "year": "1975"
+    },
+    "The Simpsons Movie": {
+        "primary": "The Simpsons Movie",
+        "id": "tt5933708",
+        "year": "2012"
+    },
+    "The Hitch-Hiker": {
+        "primary": "The Hitch-Hiker",
+        "id": "tt8960652",
+        "year": "1994"
+    },
+    "T\u00f4ky\u00f4 no k\u00f4rasu": {
+        "primary": "Tokyo Chorus",
+        "id": "tt0022485",
+        "year": 1931
+    },
+    "Shij\u00fbshichinin no shikaku": {
+        "primary": "47 Ronin",
+        "id": "tt0111170",
+        "year": "1994"
+    },
+    "Genbaku no ko": {
+        "primary": "Children of Hiroshima",
+        "id": "tt0044497",
+        "year": 1952
+    },
+    "Aisai monogatari": {
+        "primary": "Story of a Beloved Wife",
+        "id": "tt0043271",
+        "year": 1951
+    },
+    "Ugetsu monogatari": {
+        "primary": "Ugetsu",
+        "id": "tt0046478",
+        "year": 1953
+    },
+    "Novyy Gulliver": {
+        "primary": "The New Gulliver",
+        "id": "tt0026793",
+        "year": 1935
+    },
+    "Vabank": {
+        "primary": "Vabank",
+        "id": "tt3405774",
+        "year": "2007"
+    },
+    "Intolerance: Love's Struggle Throughout the Ages": {
+        "primary": "Intolerance: Love's Struggle Throughout the Ages",
+        "id": "tt0006864",
+        "year": 1916
+    },
+    "Biruma no tategoto": {
+        "primary": "The Burmese Harp",
+        "id": "tt0088810",
+        "year": "1985"
+    },
+    "It's a Wonderful Life": {
+        "primary": "It's a Wonderful Life",
+        "id": "tt9485624",
+        "year": "2018"
+    },
+    "Oliver Twist": {
+        "primary": "Oliver Twist",
+        "id": "tt7657506",
+        "year": "2017"
+    },
+    "Maugli": {
+        "primary": "The Adventures of Mowgli",
+        "id": "tt0217590",
+        "year": "1973"
+    },
+    "Balkanski spijun": {
+        "primary": "Balkanski spijun",
+        "id": "tt2714530",
+        "year": "2012"
+    },
+    "The Ghost and Mrs. Muir": {
+        "primary": "The Ghost and Mrs. Muir",
+        "id": "tt0039420",
+        "year": 1947
+    },
+    "Butch Cassidy and the Sundance Kid": {
+        "primary": "Butch Cassidy and the Sundance Kid",
+        "id": "tt8930368",
+        "year": "2018"
+    },
+    "French Connection II": {
+        "primary": "French Connection II",
+        "id": "tt0073018",
+        "year": "1975"
+    },
+    "Accattone": {
+        "primary": "Accattone",
+        "id": "tt0054599",
+        "year": 1961
+    },
+    "Lo sceicco bianco": {
+        "primary": "The White Sheik",
+        "id": "tt0044000",
+        "year": 1952
+    },
+    "Shadow of a Doubt": {
+        "primary": "Shadow of a Doubt",
+        "id": "tt8359702",
+        "year": "2017"
+    },
+    "Sanj\u00fbsangen-d\u00f4, t\u00f4shiya monogatari": {
+        "primary": "Sanj\u00fbsangen-d\u00f4, t\u00f4shiya monogatari",
+        "id": "tt0038049",
+        "year": 1945
+    },
+    "Ratatouille": {
+        "primary": "Ratatouille",
+        "id": "tt9404226",
+        "year": "2019"
+    },
+    "Varljivo leto '68": {
+        "primary": "Varljivo leto '68",
+        "id": "tt6456276",
+        "year": "1984"
+    },
+    "Major Dundee": {
+        "primary": "Major Dundee",
+        "id": "tt0059418",
+        "year": 1965
+    },
+    "Ride the High Country": {
+        "primary": "Ride the High Country",
+        "id": "tt0803564",
+        "year": "2006"
+    },
+    "Cat on a Hot Tin Roof": {
+        "primary": "Cat on a Hot Tin Roof",
+        "id": "tt2780200",
+        "year": "1985"
+    },
+    "Klassik": {
+        "primary": "Klassik",
+        "id": "tt0230419",
+        "year": "1998"
+    },
+    "The Hustler": {
+        "primary": "The Hustler",
+        "id": "tt7978634",
+        "year": "2015"
+    },
+    "Downhill": {
+        "primary": "Downhill",
+        "id": "tt8690334",
+        "year": "2016"
+    },
+    "Saboteur": {
+        "primary": "Saboteur",
+        "id": "tt9125276",
+        "year": "2018"
+    },
+    "Das Testament des Dr. Mabuse": {
+        "primary": "The Terror of Doctor Mabuse",
+        "id": "tt0056573",
+        "year": 1962
+    },
+    "Sugata Sanshir\u00f4": {
+        "primary": "Sugata Sanshir\u00f4",
+        "id": "tt1147633",
+        "year": "2007"
+    },
+    "The Dark Corner": {
+        "primary": "The Dark Corner",
+        "id": "tt3145056",
+        "year": "2013"
+    },
+    "Le beau Serge": {
+        "primary": "Le beau Serge",
+        "id": "tt4269398",
+        "year": "1999"
+    },
+    "Die Spinnen, 1. Teil - Der Goldene See": {
+        "primary": "The Spiders - Episode 1: The Golden Sea",
+        "id": "tt0010726",
+        "year": 1919
+    },
+    "Go West": {
+        "primary": "Go West",
+        "id": "tt8413070",
+        "year": "\\N"
+    },
+    "Les \u00e9motifs anonymes": {
+        "primary": "Romantics Anonymous",
+        "id": "tt1565958",
+        "year": "2010"
+    },
+    "Poseban tretman": {
+        "primary": "Poseban tretman",
+        "id": "tt0081546",
+        "year": "1980"
+    },
+    "Khlebnyy den": {
+        "primary": "Khlebnyy den",
+        "id": "tt2938228",
+        "year": "2009"
+    },
+    "Kazdy den odvahu": {
+        "primary": "Courage for Every Day",
+        "id": "tt0058259",
+        "year": 1964
+    },
+    "Kanzashi": {
+        "primary": "Kanzashi",
+        "id": "tt4102638",
+        "year": "1911"
+    },
+    "The 39 Steps": {
+        "primary": "The 39 Steps",
+        "id": "tt3265136",
+        "year": "2003"
+    },
+    "O thiasos": {
+        "primary": "The Travelling Players",
+        "id": "tt0073800",
+        "year": "1975"
+    },
+    "Diaries Notes and Sketches": {
+        "primary": "Diaries Notes and Sketches",
+        "id": "tt0196499",
+        "year": "1969"
+    },
+    "Forty Guns": {
+        "primary": "Forty Guns",
+        "id": "tt0050407",
+        "year": 1957
+    },
+    "Luci del variet\u00e0": {
+        "primary": "Luci del variet\u00e0",
+        "id": "tt5228414",
+        "year": "1991"
+    },
+    "Krylya": {
+        "primary": "Krylya",
+        "id": "tt5987840",
+        "year": "1983"
+    },
+    "My Name Is Julia Ross": {
+        "primary": "My Name Is Julia Ross",
+        "id": "tt0637783",
+        "year": "1955"
+    },
+    "\u00d4kami": {
+        "primary": "\u00d4kami",
+        "id": "tt0048443",
+        "year": 1955
+    },
+    "The Verdict": {
+        "primary": "The Verdict",
+        "id": "tt9386658",
+        "year": "2018"
+    },
+    "The Big Trail": {
+        "primary": "The Big Trail",
+        "id": "tt0020691",
+        "year": 1930
+    },
+    "Seeta Aur Geeta": {
+        "primary": "Seeta Aur Geeta",
+        "id": "tt0078222",
+        "year": "1972"
+    },
+    "As Good as It Gets": {
+        "primary": "As Good as It Gets",
+        "id": "tt3897452",
+        "year": "2012"
+    },
+    "Bigger Than Life": {
+        "primary": "Bigger Than Life",
+        "id": "tt9795592",
+        "year": "2019"
+    },
+    "Boudu sauv\u00e9 des eaux": {
+        "primary": "Boudu sauv\u00e9 des eaux",
+        "id": "tt4269412",
+        "year": "1999"
+    },
+    "Underworld U.S.A.": {
+        "primary": "Underworld U.S.A.",
+        "id": "tt0055571",
+        "year": 1961
+    },
+    "Pather Panchali": {
+        "primary": "Pather Panchali",
+        "id": "tt0048473",
+        "year": 1955
+    },
+    "Taxi Driver": {
+        "primary": "Taxi Driver",
+        "id": "tt9460870",
+        "year": "2018"
+    },
+    "Freaks": {
+        "primary": "Freaks",
+        "id": "tt9806338",
+        "year": "\\N"
+    },
+    "The Docks of New York": {
+        "primary": "The Docks of New York",
+        "id": "tt0018839",
+        "year": 1928
+    },
+    "My Way Home": {
+        "primary": "My Way Home",
+        "id": "tt2711538",
+        "year": "2013"
+    },
+    "The Man Who Knew Too Much": {
+        "primary": "The Man Who Knew Too Much",
+        "id": "tt6237232",
+        "year": "2016"
+    },
+    "Till gl\u00e4dje": {
+        "primary": "To Joy",
+        "id": "tt0043048",
+        "year": 1950
+    },
+    "The Lady Vanishes": {
+        "primary": "The Lady Vanishes",
+        "id": "tt9693272",
+        "year": "2012"
+    },
+    "Dobu": {
+        "primary": "Dobu",
+        "id": "tt0046919",
+        "year": 1954
+    },
+    "Geheimnisse einer Seele": {
+        "primary": "Secrets of a Soul",
+        "id": "tt0016914",
+        "year": 1926
+    },
+    "The Lion in Winter": {
+        "primary": "The Lion in Winter",
+        "id": "tt1531308",
+        "year": "1992"
+    },
+    "O slavnosti a hostech": {
+        "primary": "A Report on the Party and Guests",
+        "id": "tt0063371",
+        "year": 1966
+    },
+    "Anatomy of a Murder": {
+        "primary": "Anatomy of a Murder",
+        "id": "tt4223966",
+        "year": "2015"
+    },
+    "Genroku Ch\u00fbshingura": {
+        "primary": "The 47 Ronin",
+        "id": "tt0033654",
+        "year": 1941
+    },
+    "Shock Corridor": {
+        "primary": "Shock Corridor",
+        "id": "tt1252763",
+        "year": "1986"
+    },
+    "Davitelj protiv davitelja": {
+        "primary": "Strangler vs. Strangler",
+        "id": "tt0087123",
+        "year": "1984"
+    },
+    "The Deadly Companions": {
+        "primary": "The Deadly Companions",
+        "id": "tt0054795",
+        "year": 1961
+    },
+    "Kokoro": {
+        "primary": "Kokoro",
+        "id": "tt8768106",
+        "year": "\\N"
+    },
+    "The Misfits": {
+        "primary": "The Misfits",
+        "id": "tt5288720",
+        "year": "2015"
+    },
+    "Tobacco Road": {
+        "primary": "Tobacco Road",
+        "id": "tt1432558",
+        "year": "2002"
+    },
+    "La chienne": {
+        "primary": "La Chienne",
+        "id": "tt0021739",
+        "year": 1931
+    },
+    "Le sang d'un po\u00e8te": {
+        "primary": "The Blood of a Poet",
+        "id": "tt0021331",
+        "year": 1930
+    },
+    "Chinatown": {
+        "primary": "Chinatown",
+        "id": "tt9238044",
+        "year": "\\N"
+    },
+    "Gi\u00f9 la testa": {
+        "primary": "Duck, You Sucker",
+        "id": "tt0067140",
+        "year": "1971"
+    },
+    "Les enfants terribles": {
+        "primary": "Les enfants terribles",
+        "id": "tt1508209",
+        "year": "2009"
+    },
+    "Le silence de la mer": {
+        "primary": "Le silence de la mer",
+        "id": "tt7491808",
+        "year": "1992"
+    },
+    "Knock on Any Door": {
+        "primary": "Knock on Any Door",
+        "id": "tt1176299",
+        "year": "1965"
+    },
+    "Don't Bother to Knock": {
+        "primary": "Don't Bother to Knock",
+        "id": "tt5422910",
+        "year": "\\N"
+    },
+    "Kako sam sistematski unisten od idiota": {
+        "primary": "How I Was Systematically Destroyed by an Idiot",
+        "id": "tt0085769",
+        "year": "1983"
+    },
+    "La lune avec les dents": {
+        "primary": "La lune avec les dents",
+        "id": "tt1271979",
+        "year": "1967"
+    },
+    "They Live by Night": {
+        "primary": "They Live by Night",
+        "id": "tt0040872",
+        "year": 1948
+    },
+    "Shukuzu": {
+        "primary": "Epitome",
+        "id": "tt0046308",
+        "year": 1953
+    },
+    "Le notti di Cabiria": {
+        "primary": "Nights of Cabiria",
+        "id": "tt0050783",
+        "year": 1957
+    },
+    "My Ain Folk": {
+        "primary": "My Ain Folk",
+        "id": "tt0151681",
+        "year": "1945"
+    },
+    "Rebecca": {
+        "primary": "Rebecca",
+        "id": "tt9856042",
+        "year": "1997"
+    },
+    "Paris nous appartient": {
+        "primary": "Paris Belongs to Us",
+        "id": "tt0054156",
+        "year": 1961
+    },
+    "Rosemary's Baby": {
+        "primary": "Rosemary's Baby",
+        "id": "tt8128238",
+        "year": "2017"
+    },
+    "The Longest Day": {
+        "primary": "The Longest Day",
+        "id": "tt8975940",
+        "year": "2018"
+    },
+    "Snow White and the Seven Dwarfs": {
+        "primary": "Snow White and the Seven Dwarfs",
+        "id": "tt9691476",
+        "year": "2016"
+    },
+    "Anders als die Andern": {
+        "primary": "Anders als die Andern",
+        "id": "tt10366156",
+        "year": "2017"
+    },
+    "Dr\u00f4le de drame": {
+        "primary": "Dr\u00f4le de drame",
+        "id": "tt10810502",
+        "year": "1973"
+    },
+    "Coeur fid\u00e8le": {
+        "primary": "The Faithful Heart",
+        "id": "tt0013933",
+        "year": 1923
+    },
+    "Blonde Crazy": {
+        "primary": "Blonde Crazy",
+        "id": "tt0021673",
+        "year": 1931
+    },
+    "I Walked with a Zombie": {
+        "primary": "I Walked with a Zombie",
+        "id": "tt9905194",
+        "year": "1969"
+    },
+    "The Wolf Man": {
+        "primary": "The Wolf Man",
+        "id": "tt9283376",
+        "year": "1986"
+    },
+    "Bride of Frankenstein": {
+        "primary": "Bride of Frankenstein",
+        "id": "tt6872278",
+        "year": "2017"
+    },
+    "The Mummy": {
+        "primary": "The Mummy",
+        "id": "tt9824928",
+        "year": "2017"
+    },
+    "Frankenstein": {
+        "primary": "Frankenstein",
+        "id": "tt9275716",
+        "year": "1986"
+    },
+    "The Big Parade": {
+        "primary": "The Big Parade",
+        "id": "tt8766998",
+        "year": "1986"
+    },
+    "A Streetcar Named Desire": {
+        "primary": "A Streetcar Named Desire",
+        "id": "tt7711238",
+        "year": "2018"
+    },
+    "Nuovo Cinema Paradiso": {
+        "primary": "Cinema Paradiso",
+        "id": "tt0095765",
+        "year": "1988"
+    },
+    "Stalag 17": {
+        "primary": "Stalag 17",
+        "id": "tt0951662",
+        "year": "2006"
+    },
+    "The Narrow Margin": {
+        "primary": "The Narrow Margin",
+        "id": "tt0044954",
+        "year": 1952
+    },
+    "Cat People": {
+        "primary": "Cat People",
+        "id": "tt9905876",
+        "year": "1970"
+    },
+    "The Texas Chain Saw Massacre": {
+        "primary": "The Texas Chain Saw Massacre",
+        "id": "tt6881690",
+        "year": "2014"
+    },
+    "2001: A Space Odyssey": {
+        "primary": "2001: A Space Odyssey",
+        "id": "tt8521652",
+        "year": "2018"
+    },
+    "Musuko no seishun": {
+        "primary": "Youth of the Son",
+        "id": "tt0134833",
+        "year": "1952"
+    },
+    "Long Day's Journey Into Night": {
+        "primary": "Long Day's Journey Into Night",
+        "id": "tt9564432",
+        "year": "2014"
+    },
+    "Nightfall": {
+        "primary": "Nightfall",
+        "id": "tt9852178",
+        "year": "2017"
+    },
+    "My Childhood": {
+        "primary": "My Childhood",
+        "id": "tt0068983",
+        "year": "1972"
+    },
+    "Mr. Smith Goes to Washington": {
+        "primary": "Mr. Smith Goes to Washington",
+        "id": "tt6708864",
+        "year": "2017"
+    },
+    "The Best Years of Our Lives": {
+        "primary": "The Best Years of Our Lives",
+        "id": "tt3979452",
+        "year": "2013"
+    },
+    "City for Conquest": {
+        "primary": "City for Conquest",
+        "id": "tt0032342",
+        "year": 1940
+    },
+    "'G' Men": {
+        "primary": "'G' Men",
+        "id": "tt0026393",
+        "year": 1935
+    },
+    "Der Schatz": {
+        "primary": "Der Schatz",
+        "id": "tt3715920",
+        "year": "1988"
+    },
+    "Jak rozpetalem druga wojne swiatowa": {
+        "primary": "How I Unleashed World War II",
+        "id": "tt0065908",
+        "year": 1970
+    },
+    "Andrey Rublev": {
+        "primary": "Andrei Rublev",
+        "id": "tt0060107",
+        "year": 1966
+    },
+    "No Trains No Planes": {
+        "primary": "No Trains No Planes",
+        "id": "tt0189811",
+        "year": "1999"
+    },
+    "The Manchurian Candidate": {
+        "primary": "The Manchurian Candidate",
+        "id": "tt8457352",
+        "year": "2018"
+    },
+    "Les amants": {
+        "primary": "Les amants",
+        "id": "tt0827693",
+        "year": "2005"
+    },
+    "Koridorius": {
+        "primary": "The Corridor",
+        "id": "tt0110278",
+        "year": "1995"
+    },
+    "Frau im Mond": {
+        "primary": "Woman in the Moon",
+        "id": "tt0019901",
+        "year": 1929
+    },
+    "Shiqi sui de dan che": {
+        "primary": "Beijing Bicycle",
+        "id": "tt0276501",
+        "year": "2001"
+    },
+    "Voksne mennesker": {
+        "primary": "Dark Horse",
+        "id": "tt0408318",
+        "year": "2005"
+    },
+    "Pokolenie": {
+        "primary": "Pokolenie",
+        "id": "tt6262804",
+        "year": "2014"
+    },
+    "Judgment at Nuremberg": {
+        "primary": "Judgment at Nuremberg",
+        "id": "tt2263112",
+        "year": "2011"
+    },
+    "Spione": {
+        "primary": "Spione",
+        "id": "tt9395742",
+        "year": "2017"
+    },
+    "Ko to tamo peva": {
+        "primary": "Who's Singin' Over There?",
+        "id": "tt0076276",
+        "year": "1980"
+    },
+    "Lebassi Baraye Arossi": {
+        "primary": "A Suit for Wedding",
+        "id": "tt0074782",
+        "year": "1976"
+    },
+    "Snezhnaya koroleva": {
+        "primary": "Snezhnaya koroleva",
+        "id": "tt4032138",
+        "year": "2012"
+    },
+    "Volshebnaya lampa Aladdina": {
+        "primary": "Aladdin and His Magic Lamp",
+        "id": "tt0167482",
+        "year": "1967"
+    },
+    "Starik Khottabych": {
+        "primary": "The Flying Carpet",
+        "id": "tt0049794",
+        "year": 1957
+    },
+    "Mossafer": {
+        "primary": "The Traveler",
+        "id": "tt0071859",
+        "year": "1974"
+    },
+    "Tadjrebeh": {
+        "primary": "The Experience",
+        "id": "tt0070766",
+        "year": "1973"
+    },
+    "Kad budem mrtav i beo": {
+        "primary": "When I Am Dead and Gone",
+        "id": "tt0061855",
+        "year": 1967
+    },
+    "Printsessa na goroshine": {
+        "primary": "The Princess and the Pea",
+        "id": "tt0075104",
+        "year": "1977"
+    },
+    "Johan": {
+        "primary": "Johan",
+        "id": "tt7662190",
+        "year": "2017"
+    },
+    "Hangman's House": {
+        "primary": "Hangman's House",
+        "id": "tt5161038",
+        "year": "1959"
+    },
+    "Cast Away": {
+        "primary": "Cast Away",
+        "id": "tt8850046",
+        "year": "2012"
+    },
+    "Dolgaya schastlivaya zhizn": {
+        "primary": "A Long and Happy Life",
+        "id": "tt2650954",
+        "year": "2013"
+    },
+    "Yubiley prokurora": {
+        "primary": "Yubiley prokurora",
+        "id": "tt0386134",
+        "year": "2003"
+    },
+    "Le tatou\u00e9": {
+        "primary": "The Tattoo",
+        "id": "tt0063674",
+        "year": 1968
+    },
+    "Ieri oggi domani": {
+        "primary": "Ieri oggi domani",
+        "id": "tt2199395",
+        "year": "2011"
+    },
+    "The Godfather: Part III": {
+        "primary": "The Godfather: Part III",
+        "id": "tt0099674",
+        "year": "1990"
+    },
+    "The Godfather: Part II": {
+        "primary": "The Godfather: Part II",
+        "id": "tt6620222",
+        "year": "2017"
+    },
+    "Varvara-krasa, dlinnaya kosa": {
+        "primary": "Barbara the Fair with the Silken Hair",
+        "id": "tt0191625",
+        "year": "1970"
+    },
+    "Anastasia": {
+        "primary": "Anastasia",
+        "id": "tt9799870",
+        "year": "1996"
+    },
+    "Treasure Island": {
+        "primary": "Treasure Island",
+        "id": "tt9760380",
+        "year": "2011"
+    },
+    "Tri dnya": {
+        "primary": "Tri dnya",
+        "id": "tt6227062",
+        "year": "2013"
+    },
+    "Khochu v tyurmu": {
+        "primary": "Khochu v tyurmu",
+        "id": "tt0164055",
+        "year": "1999"
+    },
+    "Melkiy bes": {
+        "primary": "Melkiy bes",
+        "id": "tt8049880",
+        "year": "2017"
+    },
+    "T\u00f6rst": {
+        "primary": "Thirst",
+        "id": "tt0041998",
+        "year": 1949
+    },
+    "Tanoshiki kana jinsei": {
+        "primary": "Tanoshiki kana jinsei",
+        "id": "tt0037347",
+        "year": 1944
+    },
+    "Slnko v sieti": {
+        "primary": "The Sun in a Net",
+        "id": "tt0176155",
+        "year": "1962"
+    },
+    "Nevinost bez zastite": {
+        "primary": "Nevinost bez zastite",
+        "id": "tt0271083",
+        "year": "1942"
+    },
+    "Holubice": {
+        "primary": "The White Dove",
+        "id": "tt0175743",
+        "year": "1960"
+    },
+    "Ljubavni slucaj ili tragedija sluzbenice P.T.T.": {
+        "primary": "Love Affair, or The Case of the Missing Switchboard Operator",
+        "id": "tt0061912",
+        "year": 1967
+    },
+    "Stranger Than Paradise": {
+        "primary": "Stranger Than Paradise",
+        "id": "tt8201832",
+        "year": "2019"
+    },
+    "Dead Man": {
+        "primary": "Dead Man",
+        "id": "tt3043810",
+        "year": "2013"
+    },
+    "Nadare": {
+        "primary": "Nadare",
+        "id": "tt5313828",
+        "year": "1925"
+    },
+    "Otome-gokoro - Sannin-shimai": {
+        "primary": "Otome-gokoro - Sannin-shimai",
+        "id": "tt0026831",
+        "year": 1935
+    },
+    "Kimi to wakarete": {
+        "primary": "Apart from You",
+        "id": "tt0024214",
+        "year": 1933
+    },
+    "Schaste": {
+        "primary": "Happiness",
+        "id": "tt0017961",
+        "year": 1935
+    },
+    "Metropolis": {
+        "primary": "Metropolis",
+        "id": "tt7979226",
+        "year": "\\N"
+    },
+    "Hercules": {
+        "primary": "Hercules",
+        "id": "tt9897240",
+        "year": "2016"
+    },
+    "Ivanovo detstvo": {
+        "primary": "Ivan's Childhood",
+        "id": "tt0056111",
+        "year": 1962
+    },
+    "Hataraku ikka": {
+        "primary": "The Whole Family Works",
+        "id": "tt0031407",
+        "year": 1939
+    },
+    "Hamnstad": {
+        "primary": "Port of Call",
+        "id": "tt0040418",
+        "year": 1948
+    },
+    "F\u00e4ngelse": {
+        "primary": "F\u00e4ngelse",
+        "id": "tt10778728",
+        "year": "2008"
+    },
+    "Die F\u00e4lscher": {
+        "primary": "Die F\u00e4lscher",
+        "id": "tt5273164",
+        "year": "2015"
+    },
+    "Dar donya ye to saat chand ast?": {
+        "primary": "A Time for Love",
+        "id": "tt4108894",
+        "year": "2014"
+    },
+    "Katok i skripka": {
+        "primary": "The Steamroller and the Violin",
+        "id": "tt0053987",
+        "year": 1961
+    },
+    "Ona vas lyubit": {
+        "primary": "Ona vas lyubit",
+        "id": "tt0314459",
+        "year": "1957"
+    },
+    "Villa Marguerite": {
+        "primary": "The Secret of Villa Marguerite",
+        "id": "tt1289849",
+        "year": "2008"
+    },
+    "Miyamoto Musashi": {
+        "primary": "Miyamoto Musashi",
+        "id": "tt6500752",
+        "year": "1974"
+    },
+    "Twins": {
+        "primary": "Twins",
+        "id": "tt9769730",
+        "year": "2019"
+    },
+    "Kindergarten Cop": {
+        "primary": "Kindergarten Cop",
+        "id": "tt3834918",
+        "year": "2014"
+    },
+    "Musik i m\u00f6rker": {
+        "primary": "Music in Darkness",
+        "id": "tt0040622",
+        "year": 1948
+    },
+    "2012": {
+        "primary": "2012",
+        "id": "tt9119124",
+        "year": "2019"
+    },
+    "Les visiteurs: La r\u00e9volution": {
+        "primary": "The Visitors: Bastille Day",
+        "id": "tt2441982",
+        "year": "2016"
+    },
+    "Cape Fear": {
+        "primary": "Cape Fear",
+        "id": "tt6908180",
+        "year": "2014"
+    },
+    "Oktyabr": {
+        "primary": "October",
+        "id": "tt0835494",
+        "year": "1993"
+    },
+    "The Strange Affair of Uncle Harry": {
+        "primary": "The Strange Affair of Uncle Harry",
+        "id": "tt0038123",
+        "year": 1945
+    },
+    "Call Northside 777": {
+        "primary": "Call Northside 777",
+        "id": "tt0040202",
+        "year": 1948
+    },
+    "Louisiana Story": {
+        "primary": "Louisiana Story",
+        "id": "tt0040550",
+        "year": 1948
+    },
+    "Kradetzat na praskovi": {
+        "primary": "The Peach Thief",
+        "id": "tt0058277",
+        "year": 1964
+    },
+    "Khrani menya, moy talisman": {
+        "primary": "Khrani menya, moy talisman",
+        "id": "tt0091335",
+        "year": "1986"
+    },
+    "Jak daleko stad, jak blisko": {
+        "primary": "How Far, How Near",
+        "id": "tt0068757",
+        "year": "1972"
+    },
+    "Skepp till India land": {
+        "primary": "A Ship to India",
+        "id": "tt0039834",
+        "year": 1947
+    },
+    "Elina - Som om jag inte fanns": {
+        "primary": "Elina: As If I Wasn't There",
+        "id": "tt0330911",
+        "year": "2002"
+    },
+    "Tom and Jerry: The Magic Ring": {
+        "primary": "Tom and Jerry: The Magic Ring",
+        "id": "tt8667642",
+        "year": "2001"
+    },
+    "Tom and Jerry: The Movie": {
+        "primary": "Tom and Jerry: The Movie",
+        "id": "tt1644237",
+        "year": "2008"
+    },
+    "Salto": {
+        "primary": "Salto",
+        "id": "tt7685800",
+        "year": "2017"
+    },
+    "The Sheltering Sky": {
+        "primary": "The Sheltering Sky",
+        "id": "tt5154422",
+        "year": "2015"
+    },
+    "Ja milujem, ty milujes": {
+        "primary": "I Love, You Love",
+        "id": "tt0123920",
+        "year": "1989"
+    },
+    "The Man in the Iron Mask": {
+        "primary": "The Man in the Iron Mask",
+        "id": "tt6241922",
+        "year": "1974"
+    },
+    "Fanfan la Tulipe": {
+        "primary": "Fanfan la Tulipe",
+        "id": "tt4389250",
+        "year": "1909"
+    },
+    "Honey, I Blew Up the Kid": {
+        "primary": "Honey, I Blew Up the Kid",
+        "id": "tt5290122",
+        "year": "2013"
+    },
+    "Mr. & Mrs. Smith": {
+        "primary": "Mr. & Mrs. Smith",
+        "id": "tt4123780",
+        "year": "2014"
+    },
+    "Honey, I Shrunk the Kids": {
+        "primary": "Honey, I Shrunk the Kids",
+        "id": "tt9010836",
+        "year": "1991"
+    },
+    "Raznye sudby": {
+        "primary": "Raznye sudby",
+        "id": "tt0049603",
+        "year": 1956
+    },
+    "Mr. Nanny": {
+        "primary": "Mr. Nanny",
+        "id": "tt1714563",
+        "year": "2010"
+    },
+    "Austin Powers in Goldmember": {
+        "primary": "Austin Powers in Goldmember",
+        "id": "tt9309526",
+        "year": "2018"
+    },
+    "Austin Powers: The Spy Who Shagged Me": {
+        "primary": "Austin Powers: The Spy Who Shagged Me",
+        "id": "tt0374995",
+        "year": "\\N"
+    },
+    "Austin Powers: International Man of Mystery": {
+        "primary": "Austin Powers: International Man of Mystery",
+        "id": "tt8128346",
+        "year": "2018"
+    },
+    "Geograf globus propil": {
+        "primary": "The Geographer Drank His Globe Away",
+        "id": "tt3155604",
+        "year": "2013"
+    },
+    "The Scarlet and the Black": {
+        "primary": "The Scarlet and the Black",
+        "id": "tt0499560",
+        "year": "1965"
+    },
+    "Bice skoro propast sveta": {
+        "primary": "It Rains in My Village",
+        "id": "tt0124294",
+        "year": "1968"
+    },
+    "Sobache serdtse": {
+        "primary": "Heart of a Dog",
+        "id": "tt0096126",
+        "year": "1988"
+    },
+    "Ostatni dzien lata": {
+        "primary": "Ostatni dzien lata",
+        "id": "tt7454284",
+        "year": "2010"
+    },
+    "The Sea of Grass": {
+        "primary": "The Sea of Grass",
+        "id": "tt0039806",
+        "year": 1947
+    },
+    "George of the Jungle": {
+        "primary": "George of the Jungle",
+        "id": "tt5613762",
+        "year": "2015"
+    },
+    "Stuart Little": {
+        "primary": "Stuart Little",
+        "id": "tt10162758",
+        "year": "2019"
+    },
+    "Mousehunt": {
+        "primary": "Mousehunt",
+        "id": "tt0119715",
+        "year": "1997"
+    },
+    "Toy Story": {
+        "primary": "Toy Story",
+        "id": "tt9464904",
+        "year": "2018"
+    },
+    "Monsters, Inc.": {
+        "primary": "Monsters, Inc.",
+        "id": "tt5289624",
+        "year": "2012"
+    },
+    "Finding Nemo": {
+        "primary": "Finding Nemo",
+        "id": "tt8806026",
+        "year": "\\N"
+    },
+    "Homeward Bound: The Incredible Journey": {
+        "primary": "Homeward Bound: The Incredible Journey",
+        "id": "tt0107131",
+        "year": "1993"
+    },
+    "Back to the Future Part III": {
+        "primary": "Back to the Future Part III",
+        "id": "tt5912488",
+        "year": "2012"
+    },
+    "Back to the Future Part II": {
+        "primary": "Back to the Future Part II",
+        "id": "tt9038164",
+        "year": "1990"
+    },
+    "Back to the Future": {
+        "primary": "Back to the Future",
+        "id": "tt9878480",
+        "year": "2015"
+    },
+    "Dani": {
+        "primary": "Dani",
+        "id": "tt9239364",
+        "year": "2018"
+    },
+    "Tri": {
+        "primary": "Tri",
+        "id": "tt7127092",
+        "year": "\\N"
+    },
+    "Anma to onna": {
+        "primary": "The Masseurs and a Woman",
+        "id": "tt0426900",
+        "year": "1938"
+    },
+    "Skupljaci perja": {
+        "primary": "I Even Met Happy Gypsies",
+        "id": "tt0062277",
+        "year": 1967
+    },
+    "Minato no nihonmusume": {
+        "primary": "Japanese Girls at the Harbor",
+        "id": "tt0160535",
+        "year": "1933"
+    },
+    "Maverick": {
+        "primary": "Maverick",
+        "id": "tt8097170",
+        "year": "2017"
+    },
+    "Dark City": {
+        "primary": "Dark City",
+        "id": "tt9664664",
+        "year": "2019"
+    },
+    "Gun Crazy": {
+        "primary": "Gun Crazy",
+        "id": "tt0669508",
+        "year": "2005"
+    },
+    "He Walked by Night": {
+        "primary": "He Walked by Night",
+        "id": "tt9415132",
+        "year": "2018"
+    },
+    "S\u00e5nger fr\u00e5n andra v\u00e5ningen": {
+        "primary": "Songs from the Second Floor",
+        "id": "tt0120263",
+        "year": "2000"
+    },
+    "Je vous trouve tr\u00e8s beau": {
+        "primary": "You Are So Beautiful",
+        "id": "tt0450664",
+        "year": "2005"
+    },
+    "Enfin veuve": {
+        "primary": "The Merry Widow",
+        "id": "tt1024899",
+        "year": "2007"
+    },
+    "Qu'est-ce qu'on a fait au Bon Dieu?": {
+        "primary": "Serial (Bad) Weddings",
+        "id": "tt2800240",
+        "year": "2014"
+    },
+    "S\u00fcgisball": {
+        "primary": "Autumn Ball",
+        "id": "tt0834170",
+        "year": "2007"
+    },
+    "Khleb": {
+        "primary": "Bread",
+        "id": "tt0219853",
+        "year": "1918"
+    },
+    "Panic in the Streets": {
+        "primary": "Panic in the Streets",
+        "id": "tt7364820",
+        "year": "2015"
+    },
+    "Boomerang!": {
+        "primary": "Boomerang!",
+        "id": "tt0039208",
+        "year": 1947
+    },
+    "A Tree Grows in Brooklyn": {
+        "primary": "A Tree Grows in Brooklyn",
+        "id": "tt0072314",
+        "year": "1974"
+    },
+    "Ro.Go.Pa.G.": {
+        "primary": "Ro.Go.Pa.G.",
+        "id": "tt0056171",
+        "year": 1963
+    },
+    "La peau douce": {
+        "primary": "The Soft Skin",
+        "id": "tt0058458",
+        "year": 1964
+    },
+    "Rikugun": {
+        "primary": "Army",
+        "id": "tt0037227",
+        "year": 1944
+    },
+    "Penge": {
+        "primary": "Penge",
+        "id": "tt5498568",
+        "year": "2016"
+    },
+    "Chiyari Fuji": {
+        "primary": "Bloody Spear at Mount Fuji",
+        "id": "tt0047937",
+        "year": 1955
+    },
+    "The Whales of August": {
+        "primary": "The Whales of August",
+        "id": "tt0094315",
+        "year": "1987"
+    },
+    "Skazka o tsare Saltane": {
+        "primary": "Skazka o tsare Saltane",
+        "id": "tt6196836",
+        "year": "1943"
+    },
+    "Fahrenheit 451": {
+        "primary": "Fahrenheit 451",
+        "id": "tt8548774",
+        "year": "2018"
+    },
+    "La vita \u00e8 bella": {
+        "primary": "Life Is Beautiful",
+        "id": "tt0118799",
+        "year": "1997"
+    },
+    "Robinson Crusoe": {
+        "primary": "Robinson Crusoe",
+        "id": "tt9030968",
+        "year": "1970"
+    },
+    "Jules et Jim": {
+        "primary": "Jules et Jim",
+        "id": "tt1386632",
+        "year": "2008"
+    },
+    "Midnight": {
+        "primary": "Midnight",
+        "id": "tt9562804",
+        "year": "\\N"
+    },
+    "Born to Kill": {
+        "primary": "Born to Kill",
+        "id": "tt6464458",
+        "year": "2017"
+    },
+    "Steamboat Bill, Jr.": {
+        "primary": "Steamboat Bill, Jr.",
+        "id": "tt0019421",
+        "year": 1928
+    },
+    "Ride the Pink Horse": {
+        "primary": "Ride the Pink Horse",
+        "id": "tt0687493",
+        "year": "1950"
+    },
+    "The Last Command": {
+        "primary": "The Last Command",
+        "id": "tt6509044",
+        "year": "2017"
+    },
+    "Les carabiniers": {
+        "primary": "Les Carabiniers",
+        "id": "tt0056905",
+        "year": 1963
+    },
+    "It": {
+        "primary": "It",
+        "id": "tt9499904",
+        "year": "2017"
+    },
+    "Underworld": {
+        "primary": "Underworld",
+        "id": "tt8691382",
+        "year": "2007"
+    },
+    "Herr Arnes pengar": {
+        "primary": "Sir Arne's Treasure",
+        "id": "tt0010247",
+        "year": 1919
+    },
+    "Die B\u00fcchse der Pandora": {
+        "primary": "Die B\u00fcchse der Pandora",
+        "id": "tt3690824",
+        "year": "2014"
+    },
+    "Alvin and the Chipmunks": {
+        "primary": "Alvin and the Chipmunks",
+        "id": "tt5798288",
+        "year": "2016"
+    },
+    "Der Golem, wie er in die Welt kam": {
+        "primary": "The Golem",
+        "id": "tt0011237",
+        "year": 1920
+    },
+    "Konets Sankt-Peterburga": {
+        "primary": "The End of St. Petersburg",
+        "id": "tt0018066",
+        "year": 1927
+    },
+    "Die freudlose Gasse": {
+        "primary": "The Joyless Street",
+        "id": "tt0015842",
+        "year": 1925
+    },
+    "The Wind": {
+        "primary": "The Wind",
+        "id": "tt9916856",
+        "year": "2015"
+    },
+    "Die Nibelungen: Kriemhilds Rache": {
+        "primary": "Die Nibelungen: Kriemhild's Revenge",
+        "id": "tt0015174",
+        "year": 1924
+    },
+    "Die Nibelungen: Siegfried": {
+        "primary": "Die Nibelungen: Siegfried",
+        "id": "tt0015175",
+        "year": 1924
+    },
+    "Zangiku monogatari": {
+        "primary": "Zangiku monogatari",
+        "id": "tt5656414",
+        "year": "1963"
+    },
+    "Det regnar p\u00e5 v\u00e5r k\u00e4rlek": {
+        "primary": "It Rains on Our Love",
+        "id": "tt0038468",
+        "year": 1946
+    },
+    "Kris": {
+        "primary": "Kris",
+        "id": "tt9632370",
+        "year": "2015"
+    },
+    "322": {
+        "primary": "322",
+        "id": "tt4430218",
+        "year": "2016"
+    },
+    "Une femme douce": {
+        "primary": "A Gentle Woman",
+        "id": "tt0065152",
+        "year": 1969
+    },
+    "Matka Joanna od Aniol\u00f3w": {
+        "primary": "Matka Joanna od Aniol\u00f3w",
+        "id": "tt9195110",
+        "year": "2006"
+    },
+    "Pociag": {
+        "primary": "Pociag",
+        "id": "tt9750372",
+        "year": "2017"
+    },
+    "Salesman": {
+        "primary": "Salesman",
+        "id": "tt5793946",
+        "year": "2016"
+    },
+    "Lancelot du Lac": {
+        "primary": "Lancelot du Lac",
+        "id": "tt2098296",
+        "year": "2011"
+    },
+    "Smooth as Silk": {
+        "primary": "Smooth as Silk",
+        "id": "tt4831082",
+        "year": "2013"
+    },
+    "Red-Headed Woman": {
+        "primary": "Red-Headed Woman",
+        "id": "tt0023385",
+        "year": 1932
+    },
+    "Shrek Forever After": {
+        "primary": "Shrek Forever After",
+        "id": "tt3623968",
+        "year": "2010"
+    },
+    "The Bad Sister": {
+        "primary": "The Bad Sister",
+        "id": "tt3159814",
+        "year": "1908"
+    },
+    "Reminiscences of a Journey to Lithuania": {
+        "primary": "Reminiscences of a Journey to Lithuania",
+        "id": "tt0069172",
+        "year": "1972"
+    },
+    "Out of the Past": {
+        "primary": "Out of the Past",
+        "id": "tt9798864",
+        "year": "1999"
+    },
+    "Each Dawn I Die": {
+        "primary": "Each Dawn I Die",
+        "id": "tt0031260",
+        "year": 1939
+    },
+    "Mouchette": {
+        "primary": "Mouchette",
+        "id": "tt0061996",
+        "year": 1967
+    },
+    "Little Caesar": {
+        "primary": "Little Caesar",
+        "id": "tt9203716",
+        "year": "2018"
+    },
+    "Les Choristes": {
+        "primary": "Les Choristes",
+        "id": "tt5274616",
+        "year": "2008"
+    },
+    "Night Nurse": {
+        "primary": "Night Nurse",
+        "id": "tt9773256",
+        "year": "2014"
+    },
+    "The Public Enemy": {
+        "primary": "The Public Enemy",
+        "id": "tt5780816",
+        "year": "2015"
+    },
+    "Judith of Bethulia": {
+        "primary": "Judith of Bethulia",
+        "id": "tt0004181",
+        "year": 1914
+    },
+    "Scarface": {
+        "primary": "Scarface",
+        "id": "tt5274792",
+        "year": "2009"
+    },
+    "Stachka": {
+        "primary": "Strike",
+        "id": "tt0015361",
+        "year": 1925
+    },
+    "Ghostbusters": {
+        "primary": "Ghostbusters",
+        "id": "tt8752544",
+        "year": "1994"
+    },
+    "Ghostbusters II": {
+        "primary": "Ghostbusters II",
+        "id": "tt8777638",
+        "year": "2018"
+    },
+    "Detour": {
+        "primary": "Detour",
+        "id": "tt9876614",
+        "year": "2019"
+    },
+    "Christmas Holiday": {
+        "primary": "Christmas Holiday",
+        "id": "tt5471306",
+        "year": "1965"
+    },
+    "Tirez sur le pianiste": {
+        "primary": "Shoot the Piano Player",
+        "id": "tt0054389",
+        "year": 1960
+    },
+    "Bucking Broadway": {
+        "primary": "Bucking Broadway",
+        "id": "tt0421862",
+        "year": "1922"
+    },
+    "Crime Wave": {
+        "primary": "Crime Wave",
+        "id": "tt3819742",
+        "year": "2008"
+    },
+    "The Blue Dahlia": {
+        "primary": "The Blue Dahlia",
+        "id": "tt2876792",
+        "year": "1959"
+    },
+    "Criss Cross": {
+        "primary": "Criss Cross",
+        "id": "tt5710962",
+        "year": "2015"
+    },
+    "Across the Pacific": {
+        "primary": "Across the Pacific",
+        "id": "tt9383306",
+        "year": "2019"
+    },
+    "Citizen Kane": {
+        "primary": "Citizen Kane",
+        "id": "tt9367744",
+        "year": "2018"
+    },
+    "A fost sau n-a fost?": {
+        "primary": "12:08 East of Bucharest",
+        "id": "tt0809407",
+        "year": "2006"
+    },
+    "The Pleasure Garden": {
+        "primary": "The Pleasure Garden",
+        "id": "tt4326356",
+        "year": "1947"
+    },
+    "When the Wind Blows": {
+        "primary": "When the Wind Blows",
+        "id": "tt4816270",
+        "year": "2015"
+    },
+    "4 luni, 3 saptam\u00e2ni si 2 zile": {
+        "primary": "4 Months, 3 Weeks and 2 Days",
+        "id": "tt1032846",
+        "year": "2007"
+    },
+    "Black Angel": {
+        "primary": "Black Angel",
+        "id": "tt4733704",
+        "year": "\\N"
+    },
+    "La ilusi\u00f3n viaja en tranv\u00eda": {
+        "primary": "Illusion Travels by Streetcar",
+        "id": "tt0045907",
+        "year": 1954
+    },
+    "Beyond the Forest": {
+        "primary": "Beyond the Forest",
+        "id": "tt8483952",
+        "year": "2015"
+    },
+    "Berlin Express": {
+        "primary": "Berlin Express",
+        "id": "tt0040155",
+        "year": 1948
+    },
+    "Dance of the Vampires": {
+        "primary": "Dance of the Vampires",
+        "id": "tt1966137",
+        "year": "2011"
+    },
+    "Klostret i Sendomir": {
+        "primary": "Klostret i Sendomir",
+        "id": "tt0011370",
+        "year": 1920
+    },
+    "Jigokumon": {
+        "primary": "Gate of Hell",
+        "id": "tt0045935",
+        "year": 1953
+    },
+    "Hors Satan": {
+        "primary": "Outside Satan",
+        "id": "tt1666168",
+        "year": "2011"
+    },
+    "Quchis dgeebi": {
+        "primary": "Street Days",
+        "id": "tt1543701",
+        "year": "2010"
+    },
+    "N\u00f3z w wodzie": {
+        "primary": "Knife in the Water",
+        "id": "tt0056291",
+        "year": 1962
+    },
+    "Occident": {
+        "primary": "Occident",
+        "id": "tt0320194",
+        "year": "2002"
+    },
+    "Pastoral": {
+        "primary": "Pastoral",
+        "id": "tt6496850",
+        "year": "2017"
+    },
+    "Berg-Ejvind och hans hustru": {
+        "primary": "The Outlaw and His Wife",
+        "id": "tt0008879",
+        "year": 1918
+    },
+    "Gion no shimai": {
+        "primary": "Sisters of Gion",
+        "id": "tt5656466",
+        "year": "1956"
+    },
+    "Naniwa erej\u00ee": {
+        "primary": "Osaka Elegy",
+        "id": "tt0028021",
+        "year": 1936
+    },
+    "Taki no shiraito": {
+        "primary": "Cascading White Threads",
+        "id": "tt11432702",
+        "year": "1956"
+    },
+    "El": {
+        "primary": "El",
+        "id": "tt6206396",
+        "year": "1984"
+    },
+    "Hadewijch": {
+        "primary": "Hadewijch",
+        "id": "tt1257562",
+        "year": "2009"
+    },
+    "Ingeborg Holm": {
+        "primary": "Ingeborg Holm",
+        "id": "tt0003014",
+        "year": 1913
+    },
+    "Abismos de pasi\u00f3n": {
+        "primary": "Wuthering Heights",
+        "id": "tt0046675",
+        "year": 1954
+    },
+    "El bruto": {
+        "primary": "El bruto",
+        "id": "tt0994745",
+        "year": "2002"
+    },
+    "Una mujer sin amor": {
+        "primary": "A Woman Without Love",
+        "id": "tt0043824",
+        "year": 1952
+    },
+    "Terje Vigen": {
+        "primary": "Terje Vigen",
+        "id": "tt0801012",
+        "year": "2006"
+    },
+    "Flandres": {
+        "primary": "Flanders",
+        "id": "tt0450680",
+        "year": "2006"
+    },
+    "Twentynine Palms": {
+        "primary": "Twentynine Palms",
+        "id": "tt10192288",
+        "year": "\\N"
+    },
+    "Kurutta ipp\u00eaji": {
+        "primary": "A Page of Madness",
+        "id": "tt0017048",
+        "year": 1926
+    },
+    "Haxan": {
+        "primary": "Haxan",
+        "id": "tt8106846",
+        "year": "2018"
+    },
+    "Orochi": {
+        "primary": "Orochi",
+        "id": "tt3183446",
+        "year": "2013"
+    },
+    "Beware, My Lovely": {
+        "primary": "Beware, My Lovely",
+        "id": "tt0044417",
+        "year": 1952
+    },
+    "Spite Marriage": {
+        "primary": "Spite Marriage",
+        "id": "tt0020442",
+        "year": 1929
+    },
+    "La vie de J\u00e9sus": {
+        "primary": "La vie de J\u00e9sus",
+        "id": "tt0318808",
+        "year": "1952"
+    },
+    "The Set-Up": {
+        "primary": "The Set-Up",
+        "id": "tt8747432",
+        "year": "2014"
+    },
+    "The Saphead": {
+        "primary": "The Saphead",
+        "id": "tt0011652",
+        "year": 1920
+    },
+    "Subida al cielo": {
+        "primary": "Mexican Bus Ride",
+        "id": "tt0044084",
+        "year": 1952
+    },
+    "Susana": {
+        "primary": "Susana",
+        "id": "tt7579356",
+        "year": "\\N"
+    },
+    "Zayats nad bezdnoy": {
+        "primary": "Rabbit Over the Void",
+        "id": "tt0462727",
+        "year": "2006"
+    },
+    "Bangkok Dangerous": {
+        "primary": "Bangkok Dangerous",
+        "id": "tt0814022",
+        "year": "2008"
+    },
+    "Der scharlachrote Buchstabe": {
+        "primary": "The Scarlet Letter",
+        "id": "tt0069228",
+        "year": "1973"
+    },
+    "El gran calavera": {
+        "primary": "The Great Madcap",
+        "id": "tt0041423",
+        "year": 1949
+    },
+    "Mon cas": {
+        "primary": "Mon cas",
+        "id": "tt0093531",
+        "year": "1986"
+    },
+    "Bom yeoreum gaeul gyeoul geurigo bom": {
+        "primary": "Spring, Summer, Fall, Winter... and Spring",
+        "id": "tt0374546",
+        "year": "2003"
+    },
+    "Une femme est une femme": {
+        "primary": "Une femme est une femme",
+        "id": "tt2021396",
+        "year": "2011"
+    },
+    "Journal d'un cur\u00e9 de campagne": {
+        "primary": "Diary of a Country Priest",
+        "id": "tt0042619",
+        "year": 1951
+    },
+    "Fallen Angel": {
+        "primary": "Fallen Angel",
+        "id": "tt9308148",
+        "year": "2019"
+    },
+    "Le petit soldat": {
+        "primary": "Le petit soldat",
+        "id": "tt3946608",
+        "year": "1908"
+    },
+    "Les dames du Bois de Boulogne": {
+        "primary": "Les Dames du Bois de Boulogne",
+        "id": "tt0037630",
+        "year": 1945
+    },
+    "\u00c0 bout de souffle": {
+        "primary": "\u00c0 bout de souffle",
+        "id": "tt8137696",
+        "year": "2018"
+    },
+    "Dom v sugrobakh": {
+        "primary": "Dom v sugrobakh",
+        "id": "tt0019026",
+        "year": 1928
+    },
+    "Le quattro volte": {
+        "primary": "Le Quattro Volte",
+        "id": "tt1646975",
+        "year": "2010"
+    },
+    "L'\u00e2ge d'or": {
+        "primary": "L'\u00e2ge d'or",
+        "id": "tt6957154",
+        "year": "2017"
+    },
+    "The Searchers": {
+        "primary": "The Searchers",
+        "id": "tt7419198",
+        "year": "1956"
+    },
+    "Meres tou '36": {
+        "primary": "Days of 36",
+        "id": "tt0068939",
+        "year": "1972"
+    },
+    "Angel Face": {
+        "primary": "Angel Face",
+        "id": "tt6524130",
+        "year": "2012"
+    },
+    "The Street with No Name": {
+        "primary": "The Street with No Name",
+        "id": "tt0040843",
+        "year": 1948
+    },
+    "Dr. Mabuse, der Spieler": {
+        "primary": "Dr. Mabuse the Gambler",
+        "id": "tt0013086",
+        "year": 1922
+    },
+    "Parizhskiy sapozhnik": {
+        "primary": "Parizhskiy sapozhnik",
+        "id": "tt0019250",
+        "year": 1928
+    },
+    "Barnyard": {
+        "primary": "Barnyard",
+        "id": "tt3297534",
+        "year": "2006"
+    },
+    "Madagascar": {
+        "primary": "Madagascar",
+        "id": "tt8586480",
+        "year": "2014"
+    },
+    "Ilya Muromets i Solovey Razboynik": {
+        "primary": "Ilya and the Robber",
+        "id": "tt1189893",
+        "year": "2007"
+    },
+    "Dobrynya Nikitich i Zmey Gorynych": {
+        "primary": "Dobrinya and the Dragon",
+        "id": "tt0465967",
+        "year": "2006"
+    },
+    "Alleman": {
+        "primary": "The Human Dutch",
+        "id": "tt0056819",
+        "year": 1963
+    },
+    "Anaparastasi": {
+        "primary": "Anaparastasi",
+        "id": "tt1361518",
+        "year": "1986"
+    },
+    "Blind Husbands": {
+        "primary": "Blind Husbands",
+        "id": "tt0009937",
+        "year": 1919
+    },
+    "Rang-e khoda": {
+        "primary": "The Color of Paradise",
+        "id": "tt0191043",
+        "year": "1999"
+    },
+    "Der m\u00fcde Tod": {
+        "primary": "Destiny",
+        "id": "tt0012494",
+        "year": 1921
+    },
+    "Up the River": {
+        "primary": "Up the River",
+        "id": "tt7289678",
+        "year": "1992"
+    },
+    "L'Inferno": {
+        "primary": "Dante's Inferno",
+        "id": "tt0002130",
+        "year": 1911
+    },
+    "Dorogoy tsenoy": {
+        "primary": "Dorogoy tsenoy",
+        "id": "tt0051549",
+        "year": 1957
+    },
+    "Who Framed Roger Rabbit": {
+        "primary": "Who Framed Roger Rabbit",
+        "id": "tt9010834",
+        "year": "1991"
+    },
+    "Vier um die Frau": {
+        "primary": "Vier um die Frau",
+        "id": "tt0012806",
+        "year": 1921
+    },
+    "Taxi 3": {
+        "primary": "Taxi 3",
+        "id": "tt5796300",
+        "year": "2003"
+    },
+    "The Shining": {
+        "primary": "The Shining",
+        "id": "tt7541724",
+        "year": "2017"
+    },
+    "Eldfjall": {
+        "primary": "Volcano",
+        "id": "tt1695831",
+        "year": "2011"
+    },
+    "J'accuse": {
+        "primary": "J'accuse",
+        "id": "tt7464042",
+        "year": "2017"
+    },
+    "Moonrise": {
+        "primary": "Moonrise",
+        "id": "tt8994378",
+        "year": "2018"
+    },
+    "Bezymyannaya zvezda": {
+        "primary": "Bezymyannaya zvezda",
+        "id": "tt0077230",
+        "year": "1979"
+    },
+    "Proc\u00e8s de Jeanne d'Arc": {
+        "primary": "The Trial of Joan of Arc",
+        "id": "tt0059616",
+        "year": 1962
+    },
+    "Mekhanika golovnogo mozga": {
+        "primary": "Mechanics of the Brain",
+        "id": "tt0209143",
+        "year": "1926"
+    },
+    "The Life of David Gale": {
+        "primary": "The Life of David Gale",
+        "id": "tt0289992",
+        "year": "2003"
+    },
+    "La souriante Madame Beudet": {
+        "primary": "The Smiling Madame Beudet",
+        "id": "tt0013626",
+        "year": 1923
+    },
+    "The Salt of the Earth": {
+        "primary": "The Salt of the Earth",
+        "id": "tt5124044",
+        "year": "1955"
+    },
+    "Ivan": {
+        "primary": "Ivan",
+        "id": "tt8858400",
+        "year": "2015"
+    },
+    "Moskva": {
+        "primary": "Moskva",
+        "id": "tt4100408",
+        "year": "2008"
+    },
+    "Belovy": {
+        "primary": "Belovy",
+        "id": "tt0106385",
+        "year": "1992"
+    },
+    "Povelitel mukh": {
+        "primary": "Povelitel mukh",
+        "id": "tt2981792",
+        "year": "1991"
+    },
+    "Vse Vertovy": {
+        "primary": "Vse Vertovy",
+        "id": "tt0893562",
+        "year": "2002"
+    },
+    "Jour de f\u00eate": {
+        "primary": "Jour de f\u00eate",
+        "id": "tt7016064",
+        "year": "2008"
+    },
+    "Bogataya nevesta": {
+        "primary": "The Country Bride",
+        "id": "tt0029932",
+        "year": 1938
+    },
+    "Kubanskie kazaki": {
+        "primary": "Cossacks of the Kuban",
+        "id": "tt0041562",
+        "year": 1950
+    },
+    "Vesnoy": {
+        "primary": "In Spring",
+        "id": "tt0226590",
+        "year": "1929"
+    },
+    "Russkiy biznes": {
+        "primary": "Russkiy biznes",
+        "id": "tt0108011",
+        "year": "1993"
+    },
+    "Russkoe chudo": {
+        "primary": "Russkoe chudo",
+        "id": "tt0111041",
+        "year": "1994"
+    },
+    "Sportloto-82": {
+        "primary": "Sportloto-82",
+        "id": "tt0084716",
+        "year": "1982"
+    },
+    "Neveroyatnye priklyucheniya italyantsev v Rossii": {
+        "primary": "Unbelievable Adventures of Italians in Russia",
+        "id": "tt0070439",
+        "year": "1974"
+    },
+    "Pickpocket": {
+        "primary": "Pickpocket",
+        "id": "tt8079746",
+        "year": "2018"
+    },
+    "Quatre nuits d'un r\u00eaveur": {
+        "primary": "Four Nights of a Dreamer",
+        "id": "tt0067641",
+        "year": "1971"
+    },
+    "Odinnadtsatyy": {
+        "primary": "The Eleventh Year",
+        "id": "tt0019225",
+        "year": 1928
+    },
+    "Tri pesni o Lenine": {
+        "primary": "Three Songs About Lenin",
+        "id": "tt0025911",
+        "year": 1934
+    },
+    "Al di l\u00e0 delle nuvole": {
+        "primary": "Beyond the Clouds",
+        "id": "tt0114086",
+        "year": "1995"
+    },
+    "Das wandernde Bild": {
+        "primary": "The Wandering Image",
+        "id": "tt0011837",
+        "year": 1920
+    },
+    "Harakiri": {
+        "primary": "Harakiri",
+        "id": "tt4312162",
+        "year": "2014"
+    },
+    "Die Spinnen, 2. Teil - Das Brillantenschiff": {
+        "primary": "The Spiders - Episode 2: The Diamond Ship",
+        "id": "tt0011723",
+        "year": 1920
+    },
+    "Genuine": {
+        "primary": "Genuine",
+        "id": "tt4366192",
+        "year": "2013"
+    },
+    "Orlacs H\u00e4nde": {
+        "primary": "The Hands of Orlac",
+        "id": "tt0015202",
+        "year": 1924
+    },
+    "Furcht": {
+        "primary": "Furcht",
+        "id": "tt0007983",
+        "year": 1917
+    },
+    "Raskolnikow": {
+        "primary": "Raskolnikow",
+        "id": "tt1592176",
+        "year": "1953"
+    },
+    "Balkonas": {
+        "primary": "Balkonas",
+        "id": "tt1515736",
+        "year": "2008"
+    },
+    "The Unknown": {
+        "primary": "The Unknown",
+        "id": "tt9848132",
+        "year": "2019"
+    },
+    "Broken Blossoms or The Yellow Man and the Girl": {
+        "primary": "Broken Blossoms",
+        "id": "tt0009968",
+        "year": 1919
+    },
+    "Dolgie provody": {
+        "primary": "The Long Farewell",
+        "id": "tt0092905",
+        "year": "1971"
+    },
+    "Menschen am Sonntag": {
+        "primary": "People on Sunday",
+        "id": "tt0020163",
+        "year": 1930
+    },
+    "Deti veka": {
+        "primary": "Deti veka",
+        "id": "tt0795927",
+        "year": "1915"
+    },
+    "Melodie der Welt": {
+        "primary": "Melodie der Welt",
+        "id": "tt3495160",
+        "year": "1957"
+    },
+    "Anton Ivanovich serditsya": {
+        "primary": "Spring Song",
+        "id": "tt0033346",
+        "year": 1941
+    },
+    "Twin Peaks: Fire Walk with Me": {
+        "primary": "Twin Peaks: Fire Walk with Me",
+        "id": "tt7038634",
+        "year": "2017"
+    },
+    "Faust": {
+        "primary": "Faust",
+        "id": "tt9847856",
+        "year": "1996"
+    },
+    "Banlieue 13": {
+        "primary": "District B13",
+        "id": "tt0414852",
+        "year": "2004"
+    },
+    "Sunrise: A Song of Two Humans": {
+        "primary": "Sunrise",
+        "id": "tt0018455",
+        "year": 1927
+    },
+    "Devushka bez adresa": {
+        "primary": "Devushka bez adresa",
+        "id": "tt0050312",
+        "year": 1958
+    },
+    "Molchi, grust... molchi": {
+        "primary": "Be Silent, My Sorrow, Be Silent",
+        "id": "tt0497639",
+        "year": "1918"
+    },
+    "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb": {
+        "primary": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "id": "tt0057012",
+        "year": 1964
+    },
+    "A Woman of Paris: A Drama of Fate": {
+        "primary": "A Woman of Paris: A Drama of Fate",
+        "id": "tt0014624",
+        "year": 1923
+    },
+    "Shoulder Arms": {
+        "primary": "Shoulder Arms",
+        "id": "tt0009611",
+        "year": 1918
+    },
+    "The Birth of a Nation": {
+        "primary": "The Birth of a Nation",
+        "id": "tt7244790",
+        "year": "2016"
+    },
+    "Mat": {
+        "primary": "Mat",
+        "id": "tt9242148",
+        "year": "2011"
+    },
+    "Bezumnyy den": {
+        "primary": "Bezumnyy den",
+        "id": "tt0166098",
+        "year": "1956"
+    },
+    "Gusarskaya ballada": {
+        "primary": "Gusarskaya ballada",
+        "id": "tt0056045",
+        "year": 1962
+    },
+    "The Accused": {
+        "primary": "The Accused",
+        "id": "tt8742564",
+        "year": "2018"
+    },
+    "Monsieur Verdoux": {
+        "primary": "Monsieur Verdoux",
+        "id": "tt0039631",
+        "year": 1947
+    },
+    "The Pilgrim": {
+        "primary": "The Pilgrim",
+        "id": "tt2831406",
+        "year": "2013"
+    },
+    "D'Est": {
+        "primary": "From the East",
+        "id": "tt0106642",
+        "year": "1993"
+    },
+    "Ordet": {
+        "primary": "Ordet",
+        "id": "tt7979816",
+        "year": "2018"
+    },
+    "Make Way for Tomorrow": {
+        "primary": "Make Way for Tomorrow",
+        "id": "tt0637766",
+        "year": "1955"
+    },
+    "City Lights": {
+        "primary": "City Lights",
+        "id": "tt9233942",
+        "year": "2018"
+    },
+    "The Gold Rush": {
+        "primary": "The Gold Rush",
+        "id": "tt5605798",
+        "year": "2016"
+    },
+    "Gilda": {
+        "primary": "Gilda",
+        "id": "tt9158986",
+        "year": "2018"
+    },
+    "The Lady from Shanghai": {
+        "primary": "The Lady from Shanghai",
+        "id": "tt0040525",
+        "year": 1947
+    },
+    "Baby Face": {
+        "primary": "Baby Face",
+        "id": "tt9664476",
+        "year": "2019"
+    },
+    "Lift": {
+        "primary": "Lift",
+        "id": "tt9660698",
+        "year": "2019"
+    },
+    "College": {
+        "primary": "College",
+        "id": "tt8633426",
+        "year": "\\N"
+    },
+    "I Am a Fugitive from a Chain Gang": {
+        "primary": "I Am a Fugitive from a Chain Gang",
+        "id": "tt0023042",
+        "year": 1932
+    },
+    "Amour": {
+        "primary": "Amour",
+        "id": "tt6905930",
+        "year": "2017"
+    },
+    "L'Atalante": {
+        "primary": "L'Atalante",
+        "id": "tt0024844",
+        "year": 1934
+    },
+    "Der Student von Prag": {
+        "primary": "Der Student von Prag",
+        "id": "tt2237204",
+        "year": "1984"
+    },
+    "The Adventures of Baron Munchausen": {
+        "primary": "The Adventures of Baron Munchausen",
+        "id": "tt0096764",
+        "year": "1988"
+    },
+    "Gone with the Wind": {
+        "primary": "Gone with the Wind",
+        "id": "tt9902974",
+        "year": "2019"
+    },
+    "An Affair to Remember": {
+        "primary": "An Affair to Remember",
+        "id": "tt5842562",
+        "year": "1992"
+    },
+    "The Conversation": {
+        "primary": "The Conversation",
+        "id": "tt9691932",
+        "year": "2013"
+    },
+    "Effroyables jardins": {
+        "primary": "Strange Gardens",
+        "id": "tt0285052",
+        "year": "2003"
+    },
+    "Les enfants du marais": {
+        "primary": "The Children of the Marshland",
+        "id": "tt0167926",
+        "year": "1999"
+    },
+    "The Cheap Detective": {
+        "primary": "The Cheap Detective",
+        "id": "tt0370400",
+        "year": "1980"
+    },
+    "Mississippi Burning": {
+        "primary": "Mississippi Burning",
+        "id": "tt0095647",
+        "year": "1988"
+    },
+    "Battling Butler": {
+        "primary": "Battling Butler",
+        "id": "tt0016630",
+        "year": 1926
+    },
+    "Mne dvadtsat let": {
+        "primary": "I Am Twenty",
+        "id": "tt0058361",
+        "year": 1965
+    },
+    "Foolish Wives": {
+        "primary": "Foolish Wives",
+        "id": "tt1494095",
+        "year": "1963"
+    },
+    "Komissary": {
+        "primary": "Komissary",
+        "id": "tt0174823",
+        "year": "1971"
+    },
+    "The Two Mrs. Carrolls": {
+        "primary": "The Two Mrs. Carrolls",
+        "id": "tt5311674",
+        "year": "1957"
+    },
+    "On the Waterfront": {
+        "primary": "On the Waterfront",
+        "id": "tt8810072",
+        "year": "2017"
+    },
+    "Red River": {
+        "primary": "Red River",
+        "id": "tt9000036",
+        "year": "2019"
+    },
+    "Rio Grande": {
+        "primary": "Rio Grande",
+        "id": "tt8041000",
+        "year": "2004"
+    },
+    "The Professionals": {
+        "primary": "The Professionals",
+        "id": "tt9741210",
+        "year": "\\N"
+    },
+    "Lawman": {
+        "primary": "Lawman",
+        "id": "tt6231762",
+        "year": "2017"
+    },
+    "She Wore a Yellow Ribbon": {
+        "primary": "She Wore a Yellow Ribbon",
+        "id": "tt0041866",
+        "year": 1949
+    },
+    "Stromboli, terra di Dio": {
+        "primary": "Stromboli",
+        "id": "tt0041931",
+        "year": 1950
+    },
+    "The Beguiled": {
+        "primary": "The Beguiled",
+        "id": "tt7629560",
+        "year": "2017"
+    },
+    "Terminator 3: Rise of the Machines": {
+        "primary": "Terminator 3: Rise of the Machines",
+        "id": "tt5445014",
+        "year": "2015"
+    },
+    "Terminator 2: Judgment Day": {
+        "primary": "Terminator 2: Judgment Day",
+        "id": "tt6569484",
+        "year": "1991"
+    },
+    "The Terminator": {
+        "primary": "The Terminator",
+        "id": "tt6761748",
+        "year": "2017"
+    },
+    "Stranger on the Third Floor": {
+        "primary": "Stranger on the Third Floor",
+        "id": "tt9905516",
+        "year": "1969"
+    },
+    "Murder by Contract": {
+        "primary": "Murder by Contract",
+        "id": "tt0051959",
+        "year": 1958
+    },
+    "Act of Violence": {
+        "primary": "Act of Violence",
+        "id": "tt5618446",
+        "year": "\\N"
+    },
+    "Pickup on South Street": {
+        "primary": "Pickup on South Street",
+        "id": "tt0046187",
+        "year": 1953
+    },
+    "Vampyr": {
+        "primary": "Vampyr",
+        "id": "tt9174566",
+        "year": "\\N"
+    },
+    "Nosferatu, eine Symphonie des Grauens": {
+        "primary": "Nosferatu",
+        "id": "tt0013442",
+        "year": 1922
+    },
+    "Clash by Night": {
+        "primary": "Clash by Night",
+        "id": "tt7340564",
+        "year": "2018"
+    },
+    "White Heat": {
+        "primary": "White Heat",
+        "id": "tt5038300",
+        "year": "\\N"
+    },
+    "Touchez pas au grisbi": {
+        "primary": "Touchez Pas au Grisbi",
+        "id": "tt0046451",
+        "year": 1954
+    },
+    "The Killers": {
+        "primary": "The Killers",
+        "id": "tt9219974",
+        "year": "2018"
+    },
+    "Paths of Glory": {
+        "primary": "Paths of Glory",
+        "id": "tt5770182",
+        "year": "2016"
+    },
+    "Baby Geniuses": {
+        "primary": "Baby Geniuses",
+        "id": "tt6759276",
+        "year": "2017"
+    },
+    "The Naked City": {
+        "primary": "The Naked City",
+        "id": "tt1360901",
+        "year": "1986"
+    },
+    "\u00c7a n'arrive qu'aux autres": {
+        "primary": "\u00c7a n'arrive qu'aux autres",
+        "id": "tt6482680",
+        "year": "2005"
+    },
+    "The Night of the Hunter": {
+        "primary": "The Night of the Hunter",
+        "id": "tt6233040",
+        "year": "\\N"
+    },
+    "Casablanca": {
+        "primary": "Casablanca",
+        "id": "tt8856206",
+        "year": "2000"
+    },
+    "Where the Sidewalk Ends": {
+        "primary": "Where the Sidewalk Ends",
+        "id": "tt5896442",
+        "year": "\\N"
+    },
+    "The Enforcer": {
+        "primary": "The Enforcer",
+        "id": "tt8368088",
+        "year": "2017"
+    },
+    "La travers\u00e9e de Paris": {
+        "primary": "La travers\u00e9e de Paris",
+        "id": "tt4576182",
+        "year": "2015"
+    },
+    "Aybolit-66": {
+        "primary": "Oh How It Hurts 66",
+        "id": "tt0060083",
+        "year": 1967
+    },
+    "D.O.A.": {
+        "primary": "D.O.A.",
+        "id": "tt9535832",
+        "year": "2018"
+    },
+    "It Takes Two": {
+        "primary": "It Takes Two",
+        "id": "tt9433888",
+        "year": "2018"
+    },
+    "Ida": {
+        "primary": "Ida",
+        "id": "tt9698302",
+        "year": "2019"
+    },
+    "Nezhdanno-negadanno": {
+        "primary": "Nezhdanno-negadanno",
+        "id": "tt0166734",
+        "year": "1983"
+    },
+    "Curly Sue": {
+        "primary": "Curly Sue",
+        "id": "tt0101635",
+        "year": "1991"
+    },
+    "Mandariinid": {
+        "primary": "Tangerines",
+        "id": "tt2991224",
+        "year": "2013"
+    },
+    "Marty": {
+        "primary": "Marty",
+        "id": "tt9829170",
+        "year": "2018"
+    },
+    "Sorry, Wrong Number": {
+        "primary": "Sorry, Wrong Number",
+        "id": "tt4773240",
+        "year": "1954"
+    },
+    "Crossfire": {
+        "primary": "Crossfire",
+        "id": "tt9695128",
+        "year": "\\N"
+    },
+    "Oslo, 31. august": {
+        "primary": "Oslo, August 31st",
+        "id": "tt1736633",
+        "year": "2011"
+    },
+    "Kaminnyy gost": {
+        "primary": "Kaminnyy gost",
+        "id": "tt4505120",
+        "year": "2012"
+    },
+    "Brute Force": {
+        "primary": "Brute Force",
+        "id": "tt8721802",
+        "year": "\\N"
+    },
+    "Kari-gurashi no Arietti": {
+        "primary": "The Secret World of Arrietty",
+        "id": "tt1568921",
+        "year": "2010"
+    },
+    "Ace in the Hole": {
+        "primary": "Ace in the Hole",
+        "id": "tt7801566",
+        "year": "2017"
+    },
+    "Fuchzhou": {
+        "primary": "Fuchzhou",
+        "id": "tt0179186",
+        "year": "1993"
+    },
+    "The Big Heat": {
+        "primary": "The Big Heat",
+        "id": "tt9074456",
+        "year": "1989"
+    },
+    "Strangers on a Train": {
+        "primary": "Strangers on a Train",
+        "id": "tt8080836",
+        "year": "2018"
+    },
+    "Ascenseur pour l'\u00e9chafaud": {
+        "primary": "Elevator to the Gallows",
+        "id": "tt0051378",
+        "year": 1958
+    },
+    "El esp\u00edritu de la colmena": {
+        "primary": "The Spirit of the Beehive",
+        "id": "tt0070040",
+        "year": "1973"
+    },
+    "Moy drug Ivan Lapshin": {
+        "primary": "My Friend Ivan Lapshin",
+        "id": "tt0084345",
+        "year": "1985"
+    },
+    "Dyrygent": {
+        "primary": "The Conductor",
+        "id": "tt0079090",
+        "year": "1980"
+    },
+    "The Running Man": {
+        "primary": "The Running Man",
+        "id": "tt8726176",
+        "year": "2018"
+    },
+    "The Big Combo": {
+        "primary": "The Big Combo",
+        "id": "tt5306726",
+        "year": "2016"
+    },
+    "C.S.A.: The Confederate States of America": {
+        "primary": "C.S.A.: The Confederate States of America",
+        "id": "tt0389828",
+        "year": "2004"
+    },
+    "Umberto D.": {
+        "primary": "Umberto D.",
+        "id": "tt1327604",
+        "year": "\\N"
+    },
+    "Nebesa obetovannye": {
+        "primary": "Nebesa obetovannye",
+        "id": "tt0102516",
+        "year": "1991"
+    },
+    "Edward Scissorhands": {
+        "primary": "Edward Scissorhands",
+        "id": "tt9748548",
+        "year": "2019"
+    },
+    "Laura": {
+        "primary": "Laura",
+        "id": "tt9854810",
+        "year": "2005"
+    },
+    "The Seven Year Itch": {
+        "primary": "The Seven Year Itch",
+        "id": "tt8417200",
+        "year": "2018"
+    },
+    "Meeuwen sterven in de haven": {
+        "primary": "Meeuwen sterven in de haven",
+        "id": "tt0222186",
+        "year": "1955"
+    },
+    "The Maltese Falcon": {
+        "primary": "The Maltese Falcon",
+        "id": "tt11113044",
+        "year": "1958"
+    },
+    "The Night of the Iguana": {
+        "primary": "The Night of the Iguana",
+        "id": "tt0202497",
+        "year": "2000"
+    },
+    "The Bible: In the Beginning...": {
+        "primary": "The Bible: In the Beginning...",
+        "id": "tt0060164",
+        "year": 1966
+    },
+    "Key Largo": {
+        "primary": "Key Largo",
+        "id": "tt0507665",
+        "year": "1956"
+    },
+    "Dark Passage": {
+        "primary": "Dark Passage",
+        "id": "tt1675921",
+        "year": "2010"
+    },
+    "Love and Death": {
+        "primary": "Love and Death",
+        "id": "tt8407466",
+        "year": "2018"
+    },
+    "Lady in the Lake": {
+        "primary": "Lady in the Lake",
+        "id": "tt7673670",
+        "year": "2014"
+    },
+    "Der ewige Jude": {
+        "primary": "The Eternal Jew",
+        "id": "tt0156524",
+        "year": "1940"
+    },
+    "Duck Soup": {
+        "primary": "Duck Soup",
+        "id": "tt5577442",
+        "year": "2012"
+    },
+    "Brief Encounter": {
+        "primary": "Brief Encounter",
+        "id": "tt8615892",
+        "year": "2018"
+    },
+    "Dead End": {
+        "primary": "Dead End",
+        "id": "tt9785652",
+        "year": "2019"
+    },
+    "Gebo et l'ombre": {
+        "primary": "Gebo et l'ombre",
+        "id": "tt2006802",
+        "year": "2012"
+    },
+    "Singularidades de uma Rapariga Loura": {
+        "primary": "Eccentricities of a Blonde-Haired Girl",
+        "id": "tt1013856",
+        "year": "2009"
+    },
+    "BASEketball": {
+        "primary": "BASEketball",
+        "id": "tt6604524",
+        "year": "1998"
+    },
+    "Medianeras": {
+        "primary": "Sidewalls",
+        "id": "tt1235841",
+        "year": "2011"
+    },
+    "Un condamn\u00e9 \u00e0 mort s'est \u00e9chapp\u00e9 ou Le vent souffle o\u00f9 il veut": {
+        "primary": "A Man Escaped",
+        "id": "tt0049902",
+        "year": 1956
+    },
+    "Disco Dancer": {
+        "primary": "Disco Dancer",
+        "id": "tt5105372",
+        "year": "2011"
+    },
+    "Un homme qui dort": {
+        "primary": "The Man Who Sleeps",
+        "id": "tt0192718",
+        "year": "1974"
+    },
+    "The Boy in the Striped Pyjamas": {
+        "primary": "The Boy in the Striped Pajamas",
+        "id": "tt0914798",
+        "year": "2008"
+    },
+    "La double vie de V\u00e9ronique": {
+        "primary": "The Double Life of V\u00e9ronique",
+        "id": "tt0101765",
+        "year": "1991"
+    },
+    "The African Queen": {
+        "primary": "The African Queen",
+        "id": "tt1627979",
+        "year": "2009"
+    },
+    "Le diable probablement": {
+        "primary": "The Devil, Probably",
+        "id": "tt0075938",
+        "year": "1977"
+    },
+    "O Estranho Caso de Ang\u00e9lica": {
+        "primary": "The Strange Case of Angelica",
+        "id": "tt1282153",
+        "year": "2010"
+    },
+    "Safety Last!": {
+        "primary": "Safety Last!",
+        "id": "tt0863585",
+        "year": "1988"
+    },
+    "Le quai des brumes": {
+        "primary": "Port of Shadows",
+        "id": "tt0030643",
+        "year": 1938
+    },
+    "Night of the Living Dead": {
+        "primary": "Night of the Living Dead",
+        "id": "tt9885718",
+        "year": "2015"
+    },
+    "De weg naar Bresson": {
+        "primary": "The Road to Bresson",
+        "id": "tt0088386",
+        "year": "1984"
+    },
+    "Viagem ao Princ\u00edpio do Mundo": {
+        "primary": "Voyage to the Beginning of the World",
+        "id": "tt0120443",
+        "year": "1997"
+    },
+    "Du levande": {
+        "primary": "You, the Living",
+        "id": "tt0445336",
+        "year": "2007"
+    },
+    "B\u00f6rn n\u00e1tt\u00farunnar": {
+        "primary": "Children of Nature",
+        "id": "tt0101526",
+        "year": "1991"
+    },
+    "La r\u00e8gle du jeu": {
+        "primary": "La r\u00e8gle du jeu",
+        "id": "tt8595508",
+        "year": "2018"
+    },
+    "Zolotoy klyuchik": {
+        "primary": "The Golden Key",
+        "id": "tt1604943",
+        "year": "2009"
+    },
+    "Priklyucheniya Buratino": {
+        "primary": "The Adventures of Buratino",
+        "id": "tt0152066",
+        "year": "1960"
+    },
+    "Pro Krasnuyu Shapochku": {
+        "primary": "Pro Krasnuyu Shapochku",
+        "id": "tt0076569",
+        "year": "1977"
+    },
+    "Sinyaya ptitsa": {
+        "primary": "Sinyaya ptitsa",
+        "id": "tt0211627",
+        "year": "1970"
+    },
+    "Five Easy Pieces": {
+        "primary": "Five Easy Pieces",
+        "id": "tt8236914",
+        "year": "2019"
+    },
+    "Buffet froid": {
+        "primary": "Buffet froid",
+        "id": "tt6347284",
+        "year": "2017"
+    },
+    "Germania anno zero": {
+        "primary": "Germany Year Zero",
+        "id": "tt0039417",
+        "year": 1948
+    },
+    "Taras Bulba": {
+        "primary": "Taras Bulba",
+        "id": "tt4723140",
+        "year": "1909"
+    },
+    "Ri\u00a2hie Ri\u00a2h": {
+        "primary": "Ri\u00a2hie Ri\u00a2h",
+        "id": "tt2827036",
+        "year": "1995"
+    },
+    "The French Connection": {
+        "primary": "The French Connection",
+        "id": "tt9198928",
+        "year": "2018"
+    },
+    "Midnight Cowboy": {
+        "primary": "Midnight Cowboy",
+        "id": "tt0593293",
+        "year": "1990"
+    },
+    "Kiler": {
+        "primary": "Kiler",
+        "id": "tt0127626",
+        "year": "1997"
+    },
+    "Chlopaki nie placza": {
+        "primary": "Boys Don't Cry",
+        "id": "tt0238119",
+        "year": "2000"
+    },
+    "Les triplettes de Belleville": {
+        "primary": "The Triplets of Belleville",
+        "id": "tt0286244",
+        "year": "2003"
+    },
+    "Looney Tunes: Back in Action": {
+        "primary": "Looney Tunes: Back in Action",
+        "id": "tt3386788",
+        "year": "2013"
+    },
+    "Zolushka": {
+        "primary": "Zolushka",
+        "id": "tt6318184",
+        "year": "1978"
+    },
+    "Svadba": {
+        "primary": "Svadba",
+        "id": "tt9485192",
+        "year": "2018"
+    },
+    "Cry-Baby": {
+        "primary": "Cry-Baby",
+        "id": "tt3608782",
+        "year": "2014"
+    },
+    "Zazie dans le m\u00e9tro": {
+        "primary": "Zazie dans le m\u00e9tro",
+        "id": "tt4248902",
+        "year": "1999"
+    },
+    "Blues Brothers 2000": {
+        "primary": "Blues Brothers 2000",
+        "id": "tt8697696",
+        "year": "2018"
+    },
+    "Be My Wife": {
+        "primary": "Be My Wife",
+        "id": "tt1266626",
+        "year": "2007"
+    },
+    "Koyaanisqatsi": {
+        "primary": "Koyaanisqatsi",
+        "id": "tt3498872",
+        "year": "2014"
+    },
+    "Fort Apache": {
+        "primary": "Fort Apache",
+        "id": "tt3255868",
+        "year": "2013"
+    },
+    "Russkaya igra": {
+        "primary": "The Russian Game",
+        "id": "tt1140871",
+        "year": "2007"
+    },
+    "Prezident i ego vnuchka": {
+        "primary": "Prezident i ego vnuchka",
+        "id": "tt0261197",
+        "year": "2000"
+    },
+    "The Parent Trap": {
+        "primary": "The Parent Trap",
+        "id": "tt8761316",
+        "year": "2014"
+    },
+    "The Prince and the Pauper": {
+        "primary": "The Prince and the Pauper",
+        "id": "tt5789856",
+        "year": "2016"
+    },
+    "Gangs of New York": {
+        "primary": "Gangs of New York",
+        "id": "tt7290610",
+        "year": "2009"
+    },
+    "Night on Earth": {
+        "primary": "Night on Earth",
+        "id": "tt11497922",
+        "year": "2020"
+    },
+    "Divorzio all'italiana": {
+        "primary": "Divorzio all'italiana",
+        "id": "tt8087330",
+        "year": "2016"
+    },
+    "Persona": {
+        "primary": "Persona",
+        "id": "tt9505974",
+        "year": "2018"
+    },
+    "Nattvardsg\u00e4sterna": {
+        "primary": "Winter Light",
+        "id": "tt0057358",
+        "year": 1963
+    },
+    "Dobro pozhalovat, ili Postoronnim vkhod vospreshchen": {
+        "primary": "Welcome, or No Trespassing",
+        "id": "tt0058022",
+        "year": 1964
+    },
+    "Alexander": {
+        "primary": "Alexander",
+        "id": "tt8686624",
+        "year": "2004"
+    },
+    "Troy": {
+        "primary": "Troy",
+        "id": "tt9827914",
+        "year": "2018"
+    },
+    "Beregis avtomobilya": {
+        "primary": "Beregis avtomobilya",
+        "id": "tt3351648",
+        "year": "2009"
+    },
+    "Babe": {
+        "primary": "Babe",
+        "id": "tt8866004",
+        "year": "2018"
+    },
+    "Babe: Pig in the City": {
+        "primary": "Babe: Pig in the City",
+        "id": "tt4700490",
+        "year": "2015"
+    },
+    "Wo ist Fred?": {
+        "primary": "Wo ist Fred?",
+        "id": "tt0487271",
+        "year": "2006"
+    },
+    "Gin gwai": {
+        "primary": "The Eye",
+        "id": "tt0325655",
+        "year": "2002"
+    },
+    "The Ninth Gate": {
+        "primary": "The Ninth Gate",
+        "id": "tt1067976",
+        "year": "2007"
+    },
+    "Baby's Day Out": {
+        "primary": "Baby's Day Out",
+        "id": "tt8800344",
+        "year": "2017"
+    },
+    "Chicken Little": {
+        "primary": "Chicken Little",
+        "id": "tt9431218",
+        "year": "2011"
+    },
+    "The Frighteners": {
+        "primary": "The Frighteners",
+        "id": "tt9408118",
+        "year": "2018"
+    },
+    "Casper Meets Wendy": {
+        "primary": "Casper Meets Wendy",
+        "id": "tt0140883",
+        "year": "1998"
+    },
+    "Casper": {
+        "primary": "Casper",
+        "id": "tt9542434",
+        "year": "\\N"
+    },
+    "Heartbreakers": {
+        "primary": "Heartbreakers",
+        "id": "tt5524922",
+        "year": "2014"
+    },
+    "Sorochinskaya yarmarka": {
+        "primary": "Sorochinskaya yarmarka",
+        "id": "tt1159580",
+        "year": "2004"
+    },
+    "Za dvumya zaytsami": {
+        "primary": "Za dvumya zaytsami",
+        "id": "tt1287365",
+        "year": "2003"
+    },
+    "Vechera na khutore bliz Dikanki": {
+        "primary": "Vechera na khutore bliz Dikanki",
+        "id": "tt3111024",
+        "year": "1983"
+    },
+    "Tsvety ot Lizy": {
+        "primary": "Tsvety ot Lizy",
+        "id": "tt8300988",
+        "year": "2010"
+    },
+    "Artistka": {
+        "primary": "Artistka",
+        "id": "tt1116026",
+        "year": "2007"
+    },
+    "Ast\u00e9rix chez les Bretons": {
+        "primary": "Asterix in Britain",
+        "id": "tt0090667",
+        "year": "1986"
+    },
+    "Ast\u00e9rix et la surprise de C\u00e9sar": {
+        "primary": "Asterix and Caesar",
+        "id": "tt0088748",
+        "year": "1985"
+    },
+    "Les 12 travaux d'Ast\u00e9rix": {
+        "primary": "The Twelve Tasks of Asterix",
+        "id": "tt0072901",
+        "year": "1976"
+    },
+    "Ast\u00e9rix et Cl\u00e9op\u00e2tre": {
+        "primary": "Asterix & Cleopatra",
+        "id": "tt0062687",
+        "year": 1968
+    },
+    "Ast\u00e9rix & Ob\u00e9lix contre C\u00e9sar": {
+        "primary": "Asterix and Obelix vs. Caesar",
+        "id": "tt0133385",
+        "year": "1999"
+    },
+    "Nanook of the North": {
+        "primary": "Nanook of the North",
+        "id": "tt4514044",
+        "year": "2012"
+    },
+    "Bandidas": {
+        "primary": "Bandidas",
+        "id": "tt3614198",
+        "year": "2011"
+    },
+    "Wild Wild West": {
+        "primary": "Wild Wild West",
+        "id": "tt9480826",
+        "year": "2018"
+    },
+    "Det sjunde inseglet": {
+        "primary": "The Seventh Seal",
+        "id": "tt0050976",
+        "year": 1957
+    },
+    "Dracula": {
+        "primary": "Dracula",
+        "id": "tt9471738",
+        "year": "1989"
+    },
+    "Chichi ariki": {
+        "primary": "There Was a Father",
+        "id": "tt0034591",
+        "year": 1942
+    },
+    "The Invisible Man": {
+        "primary": "The Invisible Man",
+        "id": "tt9798774",
+        "year": "1999"
+    },
+    "Le parfum d'Yvonne": {
+        "primary": "Le parfum d'Yvonne",
+        "id": "tt0110776",
+        "year": "1994"
+    },
+    "Progulki s Brodskim": {
+        "primary": "Progulki s Brodskim",
+        "id": "tt3822730",
+        "year": "1994"
+    },
+    "Skazany na bluesa": {
+        "primary": "Skazany na bluesa",
+        "id": "tt0476872",
+        "year": "2005"
+    },
+    "Taras Shevchenko": {
+        "primary": "Taras Shevchenko",
+        "id": "tt0044107",
+        "year": 1951
+    },
+    "The Addams Family": {
+        "primary": "The Addams Family",
+        "id": "tt6159620",
+        "year": "2016"
+    },
+    "Die Hard with a Vengeance": {
+        "primary": "Die Hard with a Vengeance",
+        "id": "tt1693322",
+        "year": "2007"
+    },
+    "Die Hard 2": {
+        "primary": "Die Hard 2",
+        "id": "tt1979526",
+        "year": "\\N"
+    },
+    "Die Hard": {
+        "primary": "Die Hard",
+        "id": "tt9504998",
+        "year": "2018"
+    },
+    "Turetskiy gambit": {
+        "primary": "Turetskiy gambit",
+        "id": "tt0374298",
+        "year": "2005"
+    },
+    "Statskiy sovetnik": {
+        "primary": "The State Counsellor",
+        "id": "tt0450158",
+        "year": "2005"
+    },
+    "Sirota kazanskaya": {
+        "primary": "Sympathy Seeker",
+        "id": "tt0129380",
+        "year": "1997"
+    },
+    "Le jouet": {
+        "primary": "Le jouet",
+        "id": "tt3781782",
+        "year": "1998"
+    },
+    "Vasilisa Prekrasnaya": {
+        "primary": "Vasilisa the Beautiful",
+        "id": "tt2954570",
+        "year": "1977"
+    },
+    "Beloe solntse pustyni": {
+        "primary": "White Sun of the Desert",
+        "id": "tt0066565",
+        "year": 1970
+    },
+    "Svadba v Malinovke": {
+        "primary": "Wedding in Malinovka",
+        "id": "tt0062323",
+        "year": 1967
+    },
+    "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe": {
+        "primary": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "id": "tt9476168",
+        "year": "2018"
+    },
+    "Arthur et les Minimoys": {
+        "primary": "Arthur et les Minimoys",
+        "id": "tt5807510",
+        "year": "2006"
+    },
+    "Noch pered Rozhdestvom": {
+        "primary": "The Night Before Christmas",
+        "id": "tt1550321",
+        "year": "1951"
+    },
+    "Podkidysh": {
+        "primary": "The Foundling",
+        "id": "tt0184823",
+        "year": "1940"
+    },
+    "Morozko": {
+        "primary": "Morozko",
+        "id": "tt4071908",
+        "year": "2010"
+    },
+    "Sister Act": {
+        "primary": "Sister Act",
+        "id": "tt9343886",
+        "year": "2018"
+    },
+    "Pena": {
+        "primary": "Pena",
+        "id": "tt6232464",
+        "year": "1977"
+    },
+    "Devchata": {
+        "primary": "The Girls",
+        "id": "tt0134614",
+        "year": "1962"
+    },
+    "King Ralph": {
+        "primary": "King Ralph",
+        "id": "tt0102216",
+        "year": "1991"
+    },
+    "The Mask": {
+        "primary": "The Mask",
+        "id": "tt9853858",
+        "year": "2018"
+    },
+    "Fire Down Below": {
+        "primary": "Fire Down Below",
+        "id": "tt7466834",
+        "year": "2006"
+    },
+    "Halloween: Resurrection": {
+        "primary": "Halloween: Resurrection",
+        "id": "tt7632132",
+        "year": "2017"
+    },
+    "Saw II": {
+        "primary": "Saw II",
+        "id": "tt1109220",
+        "year": "2006"
+    },
+    "Saw": {
+        "primary": "Saw",
+        "id": "tt9645292",
+        "year": "2017"
+    },
+    "Gremlins": {
+        "primary": "Gremlins",
+        "id": "tt9395182",
+        "year": "2018"
+    },
+    "Easy Rider": {
+        "primary": "Easy Rider",
+        "id": "tt5921784",
+        "year": "2016"
+    },
+    "Zemlya": {
+        "primary": "Zemlya",
+        "id": "tt6532126",
+        "year": "1989"
+    },
+    "Shrek the Third": {
+        "primary": "Shrek the Third",
+        "id": "tt11121016",
+        "year": "2018"
+    },
+    "Shrek 2": {
+        "primary": "Shrek 2",
+        "id": "tt5955390",
+        "year": "2013"
+    },
+    "Shrek": {
+        "primary": "Shrek",
+        "id": "tt6486820",
+        "year": "2017"
+    },
+    "Bogdan Khmelnitskiy": {
+        "primary": "Bogdan Khmelnitskiy",
+        "id": "tt0033422",
+        "year": 1941
+    },
+    "The Soviet Story": {
+        "primary": "The Soviet Story",
+        "id": "tt1305871",
+        "year": "2008"
+    },
+    "Pete Seeger: The Power of Song": {
+        "primary": "Pete Seeger: The Power of Song",
+        "id": "tt1455841",
+        "year": "2008"
+    },
+    "Johnny Cash in San Quentin": {
+        "primary": "Johnny Cash in San Quentin",
+        "id": "tt0461256",
+        "year": "1969"
+    },
+    "Johnny Cash! The Man, His World, His Music": {
+        "primary": "Johnny Cash! The Man, His World, His Music",
+        "id": "tt0154684",
+        "year": "1969"
+    },
+    "The Great Race": {
+        "primary": "The Great Race",
+        "id": "tt9542354",
+        "year": "\\N"
+    },
+    "The Kid": {
+        "primary": "The Kid",
+        "id": "tt9626376",
+        "year": "\\N"
+    },
+    "To Catch a Thief": {
+        "primary": "To Catch a Thief",
+        "id": "tt8067962",
+        "year": "2012"
+    },
+    "Our Hospitality": {
+        "primary": "Our Hospitality",
+        "id": "tt0014341",
+        "year": 1923
+    },
+    "Belorusskiy vokzal": {
+        "primary": "Belorusskiy vokzal",
+        "id": "tt0128960",
+        "year": "1971"
+    },
+    "Deep Impact": {
+        "primary": "Deep Impact",
+        "id": "tt6740128",
+        "year": "2018"
+    },
+    "The Day After Tomorrow": {
+        "primary": "The Day After Tomorrow",
+        "id": "tt8889778",
+        "year": "2019"
+    },
+    "Le charme discret de la bourgeoisie": {
+        "primary": "Le charme discret de la bourgeoisie",
+        "id": "tt3675784",
+        "year": "2013"
+    },
+    "Arsenal": {
+        "primary": "Arsenal",
+        "id": "tt8996692",
+        "year": "2015"
+    },
+    "Zvenigora": {
+        "primary": "Zvenigora",
+        "id": "tt0019611",
+        "year": 1928
+    },
+    "Paper Moon": {
+        "primary": "Paper Moon",
+        "id": "tt3845906",
+        "year": "2014"
+    },
+    "Problem Child 3: Junior in Love": {
+        "primary": "Problem Child 3: Junior in Love",
+        "id": "tt0114188",
+        "year": "1995"
+    },
+    "Crossroads": {
+        "primary": "Crossroads",
+        "id": "tt9867124",
+        "year": "\\N"
+    },
+    "Shine": {
+        "primary": "Shine",
+        "id": "tt9777994",
+        "year": "2017"
+    },
+    "The Exorcism of Emily Rose": {
+        "primary": "The Exorcism of Emily Rose",
+        "id": "tt0404032",
+        "year": "2005"
+    },
+    "I Know What You Did Last Summer": {
+        "primary": "I Know What You Did Last Summer",
+        "id": "tt6049354",
+        "year": "2013"
+    },
+    "Dennis the Menace": {
+        "primary": "Dennis the Menace",
+        "id": "tt6226676",
+        "year": "2013"
+    },
+    "Spy Kids 2: Island of Lost Dreams": {
+        "primary": "Spy Kids 2: Island of Lost Dreams",
+        "id": "tt0914182",
+        "year": "2002"
+    },
+    "Spy Kids": {
+        "primary": "Spy Kids",
+        "id": "tt9027538",
+        "year": "2003"
+    },
+    "The Pagemaster": {
+        "primary": "The Pagemaster",
+        "id": "tt8354450",
+        "year": "2013"
+    },
+    "Hook": {
+        "primary": "Hook",
+        "id": "tt8777562",
+        "year": "2018"
+    },
+    "Na podmostkakh stseny": {
+        "primary": "Na podmostkakh stseny",
+        "id": "tt0049536",
+        "year": 1956
+    },
+    "Karlsson p\u00e5 taket": {
+        "primary": "Karlsson on the Roof",
+        "id": "tt0307050",
+        "year": "2002"
+    },
+    "Marie-Octobre": {
+        "primary": "Marie-Octobre",
+        "id": "tt4269108",
+        "year": "1998"
+    },
+    "Men in Black II": {
+        "primary": "Men in Black II",
+        "id": "tt1869872",
+        "year": "2010"
+    },
+    "Men in Black": {
+        "primary": "Men in Black",
+        "id": "tt9789004",
+        "year": "2017"
+    },
+    "Kapitan Krokus": {
+        "primary": "Kapitan Krokus",
+        "id": "tt0151186",
+        "year": "1994"
+    },
+    "He Who Gets Slapped": {
+        "primary": "He Who Gets Slapped",
+        "id": "tt4326440",
+        "year": "1947"
+    },
+    "How to Steal a Million": {
+        "primary": "How to Steal a Million",
+        "id": "tt5978320",
+        "year": "2016"
+    },
+    "To Be or Not to Be": {
+        "primary": "To Be or Not to Be",
+        "id": "tt9788190",
+        "year": "2018"
+    },
+    "The Great Dictator": {
+        "primary": "The Great Dictator",
+        "id": "tt1103468",
+        "year": "2007"
+    },
+    "Modern Times": {
+        "primary": "Modern Times",
+        "id": "tt8111228",
+        "year": "2018"
+    },
+    "La grande illusion": {
+        "primary": "La grande illusion",
+        "id": "tt4268778",
+        "year": "1998"
+    },
+    "In Hell": {
+        "primary": "In Hell",
+        "id": "tt1953747",
+        "year": "2010"
+    },
+    "The Courageous Heart of Irena Sendler": {
+        "primary": "The Courageous Heart of Irena Sendler",
+        "id": "tt1010278",
+        "year": "2009"
+    },
+    "Afonya": {
+        "primary": "Afonya",
+        "id": "tt0072613",
+        "year": "1975"
+    },
+    "C'era una volta il West": {
+        "primary": "Once Upon a Time in the West",
+        "id": "tt0064116",
+        "year": 1968
+    },
+    "Ogniem i mieczem": {
+        "primary": "With Fire and Sword",
+        "id": "tt0128378",
+        "year": "1999"
+    },
+    "So weit die F\u00fc\u00dfe tragen": {
+        "primary": "As Far as My Feet Will Carry Me",
+        "id": "tt0277327",
+        "year": "2001"
+    },
+    "The Conspirator": {
+        "primary": "The Conspirator",
+        "id": "tt8075068",
+        "year": "2018"
+    },
+    "Witness": {
+        "primary": "Witness",
+        "id": "tt9543466",
+        "year": "2019"
+    },
+    "The Circus": {
+        "primary": "The Circus",
+        "id": "tt9221996",
+        "year": "2018"
+    },
+    "My Darling Clementine": {
+        "primary": "My Darling Clementine",
+        "id": "tt1471197",
+        "year": "2008"
+    },
+    "Das Cabinet des Dr. Caligari": {
+        "primary": "The Cabinet of Dr. Caligari",
+        "id": "tt0010323",
+        "year": 1920
+    },
+    "Hor\u00ed, m\u00e1 panenko": {
+        "primary": "Hor\u00ed, m\u00e1 panenko",
+        "id": "tt9787466",
+        "year": "2019"
+    },
+    "Indiana Jones and the Temple of Doom": {
+        "primary": "Indiana Jones and the Temple of Doom",
+        "id": "tt6933198",
+        "year": "2017"
+    },
+    "The Navigator": {
+        "primary": "The Navigator",
+        "id": "tt9424382",
+        "year": "2018"
+    },
+    "Miracle on 34th Street": {
+        "primary": "Miracle on 34th Street",
+        "id": "tt5654230",
+        "year": "2016"
+    },
+    "Matilda": {
+        "primary": "Matilda",
+        "id": "tt9359184",
+        "year": "\\N"
+    },
+    "Mimino": {
+        "primary": "Mimino",
+        "id": "tt0274664",
+        "year": "1965"
+    },
+    "The Cameraman": {
+        "primary": "The Cameraman",
+        "id": "tt8014958",
+        "year": "2019"
+    },
+    "The General": {
+        "primary": "The General",
+        "id": "tt8363110",
+        "year": "2018"
+    },
+    "The Roaring Twenties": {
+        "primary": "The Roaring Twenties",
+        "id": "tt3967550",
+        "year": "2013"
+    },
+    "Copie conforme": {
+        "primary": "Copie conforme",
+        "id": "tt1425833",
+        "year": "1990"
+    },
+    "Harry Potter and the Order of the Phoenix": {
+        "primary": "Harry Potter and the Order of the Phoenix",
+        "id": "tt7244582",
+        "year": "2016"
+    },
+    "Harry Potter and the Goblet of Fire": {
+        "primary": "Harry Potter and the Goblet of Fire",
+        "id": "tt7244580",
+        "year": "2016"
+    },
+    "Harry Potter and the Prisoner of Azkaban": {
+        "primary": "Harry Potter and the Prisoner of Azkaban",
+        "id": "tt9558794",
+        "year": "2016"
+    },
+    "Harry Potter and the Chamber of Secrets": {
+        "primary": "Harry Potter and the Chamber of Secrets",
+        "id": "tt8632732",
+        "year": "2017"
+    },
+    "Harry Potter and the Sorcerer's Stone": {
+        "primary": "Harry Potter and the Sorcerer's Stone",
+        "id": "tt7244504",
+        "year": "2016"
+    },
+    "You May Not Kiss the Bride": {
+        "primary": "You May Not Kiss the Bride",
+        "id": "tt1381418",
+        "year": "2011"
+    },
+    "Vozvrashchenie": {
+        "primary": "Vozvrashchenie",
+        "id": "tt9232972",
+        "year": "2006"
+    },
+    "Mars Attacks!": {
+        "primary": "Mars Attacks!",
+        "id": "tt7701856",
+        "year": "2018"
+    },
+    "Independence Day": {
+        "primary": "Independence Day",
+        "id": "tt9802018",
+        "year": "2019"
+    },
+    "Leviafan": {
+        "primary": "Leviathan",
+        "id": "tt2802154",
+        "year": "2014"
+    },
+    "Die H\u00f6hle des gelben Hundes": {
+        "primary": "The Cave of the Yellow Dog",
+        "id": "tt0432325",
+        "year": "2005"
+    },
+    "Bacheha-Ye aseman": {
+        "primary": "Children of Heaven",
+        "id": "tt0118849",
+        "year": "1997"
+    },
+    "Viy": {
+        "primary": "Viy",
+        "id": "tt6534862",
+        "year": "2019"
+    },
+    "Propavshaya gramota": {
+        "primary": "The Lost Letter",
+        "id": "tt0239843",
+        "year": "1945"
+    },
+    "What Women Want": {
+        "primary": "What Women Want",
+        "id": "tt7848370",
+        "year": "2017"
+    },
+    "The Passion of the Christ": {
+        "primary": "The Passion of the Christ",
+        "id": "tt6144288",
+        "year": "2016"
+    },
+    "10,000 BC": {
+        "primary": "10,000 BC",
+        "id": "tt4443898",
+        "year": "2015"
+    },
+    "Apocalypto": {
+        "primary": "Apocalypto",
+        "id": "tt7240044",
+        "year": "2016"
+    },
+    "Raiders of the Lost Ark": {
+        "primary": "Raiders of the Lost Ark",
+        "id": "tt3040866",
+        "year": "2004"
+    },
+    "Indiana Jones and the Last Crusade": {
+        "primary": "Indiana Jones and the Last Crusade",
+        "id": "tt3980496",
+        "year": "2014"
+    },
+    "Doubt": {
+        "primary": "Doubt",
+        "id": "tt9749194",
+        "year": "2020"
+    },
+    "Ta'm e guilass": {
+        "primary": "Taste of Cherry",
+        "id": "tt0120265",
+        "year": "1997"
+    },
+    "Trois couleurs: Blanc": {
+        "primary": "Three Colors: White",
+        "id": "tt0111507",
+        "year": "1994"
+    },
+    "Trois couleurs: Bleu": {
+        "primary": "Three Colors: Blue",
+        "id": "tt0108394",
+        "year": "1993"
+    },
+    "Dzhentlmeny udachi": {
+        "primary": "Gentlemen of Fortune",
+        "id": "tt0068519",
+        "year": "1971"
+    },
+    "Banshun": {
+        "primary": "Late Spring",
+        "id": "tt0041154",
+        "year": 1949
+    },
+    "The Man in the White Suit": {
+        "primary": "The Man in the White Suit",
+        "id": "tt10196518",
+        "year": "\\N"
+    },
+    "Ikiru": {
+        "primary": "Ikiru",
+        "id": "tt9051908",
+        "year": "\\N"
+    },
+    "Titanic": {
+        "primary": "Titanic",
+        "id": "tt8852130",
+        "year": "2018"
+    },
+    "The Mummy Returns": {
+        "primary": "The Mummy Returns",
+        "id": "tt11121060",
+        "year": "2019"
+    },
+    "Harvey": {
+        "primary": "Harvey",
+        "id": "tt9337832",
+        "year": "2007"
+    },
+    "Twin Sitters": {
+        "primary": "Twin Sitters",
+        "id": "tt4973180",
+        "year": "2015"
+    },
+    "Mrs. Doubtfire": {
+        "primary": "Mrs. Doubtfire",
+        "id": "tt6236098",
+        "year": "2016"
+    },
+    "Night at the Museum": {
+        "primary": "Night at the Museum",
+        "id": "tt1785237",
+        "year": "2010"
+    },
+    "Dr. Jekyll and Mr. Hyde": {
+        "primary": "Dr. Jekyll and Mr. Hyde",
+        "id": "tt8146256",
+        "year": "1934"
+    },
+    "T\u00f4ky\u00f4 monogatari": {
+        "primary": "Tokyo Story",
+        "id": "tt0046438",
+        "year": 1953
+    },
+    "Ulybka Boga, ili Chisto odesskaya istoriya": {
+        "primary": "Ulybka Boga, ili Chisto odesskaya istoriya",
+        "id": "tt1264881",
+        "year": "2008"
+    },
+    "Zhenikh s togo sveta": {
+        "primary": "Zhenikh s togo sveta",
+        "id": "tt0171946",
+        "year": "1958"
+    },
+    "Zapasnoy igrok": {
+        "primary": "The Boys from Leningrad",
+        "id": "tt0047895",
+        "year": 1954
+    },
+    "My s vami gde-to vstrechalis": {
+        "primary": "My s vami gde-to vstrechalis",
+        "id": "tt0168083",
+        "year": "1954"
+    },
+    "Funny Face": {
+        "primary": "Funny Face",
+        "id": "tt9647688",
+        "year": "2019"
+    },
+    "The Defiant Ones": {
+        "primary": "The Defiant Ones",
+        "id": "tt7601908",
+        "year": "2017"
+    },
+    "Red Dragon": {
+        "primary": "Red Dragon",
+        "id": "tt7946380",
+        "year": "2008"
+    },
+    "Hannibal": {
+        "primary": "Hannibal",
+        "id": "tt6144964",
+        "year": "2016"
+    },
+    "Der Untergang": {
+        "primary": "Der Untergang",
+        "id": "tt1153528",
+        "year": "2003"
+    },
+    "EuroTrip": {
+        "primary": "EuroTrip",
+        "id": "tt0356150",
+        "year": "2004"
+    },
+    "American Pie": {
+        "primary": "American Pie",
+        "id": "tt6049326",
+        "year": "2013"
+    },
+    "Jane Eyre": {
+        "primary": "Jane Eyre",
+        "id": "tt9626910",
+        "year": "2019"
+    },
+    "The Color Purple": {
+        "primary": "The Color Purple",
+        "id": "tt9058500",
+        "year": "2018"
+    },
+    "Skazka o poteryannom vremeni": {
+        "primary": "Skazka o poteryannom vremeni",
+        "id": "tt2595916",
+        "year": "1978"
+    },
+    "Korolevstvo krivykh zerkal": {
+        "primary": "Korolevstvo krivykh zerkal",
+        "id": "tt4071860",
+        "year": "2007"
+    },
+    "The Thief": {
+        "primary": "The Thief",
+        "id": "tt9648938",
+        "year": "2012"
+    },
+    "Dial M for Murder": {
+        "primary": "Dial M for Murder",
+        "id": "tt2057932",
+        "year": "2011"
+    },
+    "Spellbound": {
+        "primary": "Spellbound",
+        "id": "tt9617738",
+        "year": "2019"
+    },
+    "The Lost Weekend": {
+        "primary": "The Lost Weekend",
+        "id": "tt8594402",
+        "year": "\\N"
+    },
+    "Van Helsing": {
+        "primary": "Van Helsing",
+        "id": "tt9089652",
+        "year": "2018"
+    },
+    "The Blues Brothers": {
+        "primary": "The Blues Brothers",
+        "id": "tt8107748",
+        "year": "2015"
+    },
+    "Me, Myself & Irene": {
+        "primary": "Me, Myself & Irene",
+        "id": "tt1979568",
+        "year": "\\N"
+    },
+    "Home Alone 4: Taking Back the House": {
+        "primary": "Home Alone 4: Taking Back the House",
+        "id": "tt0329200",
+        "year": "2002"
+    },
+    "Home Alone 3": {
+        "primary": "Home Alone 3",
+        "id": "tt1638845",
+        "year": "2010"
+    },
+    "Home Alone 2: Lost in New York": {
+        "primary": "Home Alone 2: Lost in New York",
+        "id": "tt9387092",
+        "year": "2018"
+    },
+    "Home Alone": {
+        "primary": "Home Alone",
+        "id": "tt9794254",
+        "year": "2019"
+    },
+    "August Rush": {
+        "primary": "August Rush",
+        "id": "tt8085452",
+        "year": "2008"
+    },
+    "Police Academy: Mission to Moscow": {
+        "primary": "Police Academy: Mission to Moscow",
+        "id": "tt0110857",
+        "year": "1994"
+    },
+    "Police Academy 6: City Under Siege": {
+        "primary": "Police Academy 6: City Under Siege",
+        "id": "tt0098105",
+        "year": "1989"
+    },
+    "Police Academy 5: Assignment: Miami Beach": {
+        "primary": "Police Academy 5: Assignment: Miami Beach",
+        "id": "tt0095882",
+        "year": "1988"
+    },
+    "Police Academy 4: Citizens on Patrol": {
+        "primary": "Police Academy 4: Citizens on Patrol",
+        "id": "tt0093756",
+        "year": "1987"
+    },
+    "Police Academy 3: Back in Training": {
+        "primary": "Police Academy 3: Back in Training",
+        "id": "tt0091777",
+        "year": "1986"
+    },
+    "Police Academy 2: Their First Assignment": {
+        "primary": "Police Academy 2: Their First Assignment",
+        "id": "tt0089822",
+        "year": "1985"
+    },
+    "Police Academy": {
+        "primary": "Police Academy",
+        "id": "tt8773440",
+        "year": "2018"
+    },
+    "The Big Sleep": {
+        "primary": "The Big Sleep",
+        "id": "tt8022752",
+        "year": "2018"
+    },
+    "Arsenic and Old Lace": {
+        "primary": "Arsenic and Old Lace",
+        "id": "tt1302226",
+        "year": "1957"
+    },
+    "The Wild Bunch": {
+        "primary": "The Wild Bunch",
+        "id": "tt4723994",
+        "year": "1982"
+    },
+    "Seven Chances": {
+        "primary": "Seven Chances",
+        "id": "tt2375503",
+        "year": "2012"
+    },
+    "The Bachelor": {
+        "primary": "The Bachelor",
+        "id": "tt9731464",
+        "year": "2019"
+    },
+    "The Treasure of the Sierra Madre": {
+        "primary": "The Treasure of the Sierra Madre",
+        "id": "tt0847264",
+        "year": "2006"
+    },
+    "Interview with the Vampire: The Vampire Chronicles": {
+        "primary": "Interview with the Vampire: The Vampire Chronicles",
+        "id": "tt0110148",
+        "year": "1994"
+    },
+    "La passion de Jeanne d'Arc": {
+        "primary": "The Passion of Joan of Arc",
+        "id": "tt0019254",
+        "year": 1928
+    },
+    "Sherlock Jr.": {
+        "primary": "Sherlock Jr.",
+        "id": "tt7933848",
+        "year": "2018"
+    },
+    "Ya shagayu po Moskve": {
+        "primary": "Walking the Streets of Moscow",
+        "id": "tt0057694",
+        "year": 1964
+    },
+    "Le feu follet": {
+        "primary": "Le feu follet",
+        "id": "tt0387219",
+        "year": "1994"
+    },
+    "Moskva slezam ne verit": {
+        "primary": "Moscow Does Not Believe in Tears",
+        "id": "tt0079579",
+        "year": "1980"
+    },
+    "Porokh": {
+        "primary": "Porokh",
+        "id": "tt0089828",
+        "year": "1985"
+    },
+    "Poslusne hl\u00e1s\u00edm": {
+        "primary": "I Dutifully Report",
+        "id": "tt0050853",
+        "year": 1958
+    },
+    "Dobr\u00fd voj\u00e1k Svejk": {
+        "primary": "Dobr\u00fd voj\u00e1k Svejk",
+        "id": "tt7691614",
+        "year": "1926"
+    },
+    "Les couloirs du temps: Les visiteurs II": {
+        "primary": "The Visitors II: The Corridors of Time",
+        "id": "tt0120882",
+        "year": "1998"
+    },
+    "Les visiteurs": {
+        "primary": "Les visiteurs",
+        "id": "tt9273806",
+        "year": "2013"
+    },
+    "Listopad": {
+        "primary": "Listopad",
+        "id": "tt8411312",
+        "year": "1997"
+    },
+    "Den vyborov": {
+        "primary": "Den vyborov",
+        "id": "tt5952198",
+        "year": "2009"
+    },
+    "La legge \u00e8 legge": {
+        "primary": "The Law Is the Law",
+        "id": "tt0051851",
+        "year": 1958
+    },
+    "Iyulskiy dozhd": {
+        "primary": "July Rain",
+        "id": "tt0171408",
+        "year": "1967"
+    },
+    "Karnavalnaya noch": {
+        "primary": "Carnival in Moscow",
+        "id": "tt0049397",
+        "year": 1956
+    },
+    "Tikhiy Don": {
+        "primary": "Tikhiy Don",
+        "id": "tt5220278",
+        "year": "2015"
+    },
+    "El Dorado": {
+        "primary": "El Dorado",
+        "id": "tt8220202",
+        "year": "2018"
+    },
+    "Der Name der Rose": {
+        "primary": "The Name of the Rose",
+        "id": "tt0091605",
+        "year": "1986"
+    },
+    "House on Haunted Hill": {
+        "primary": "House on Haunted Hill",
+        "id": "tt9651926",
+        "year": "2019"
+    },
+    "3:10 to Yuma": {
+        "primary": "3:10 to Yuma",
+        "id": "tt1250399",
+        "year": "2008"
+    },
+    "Charade": {
+        "primary": "Charade",
+        "id": "tt6064006",
+        "year": "\\N"
+    },
+    "Osenniy marafon": {
+        "primary": "Autumn Marathon",
+        "id": "tt0079679",
+        "year": "1979"
+    },
+    "The Sugarland Express": {
+        "primary": "The Sugarland Express",
+        "id": "tt6758416",
+        "year": "2017"
+    },
+    "O melissokomos": {
+        "primary": "The Beekeeper",
+        "id": "tt0091506",
+        "year": "1986"
+    },
+    "In a Lonely Place": {
+        "primary": "In a Lonely Place",
+        "id": "tt9436472",
+        "year": "2018"
+    },
+    "Angels with Dirty Faces": {
+        "primary": "Angels with Dirty Faces",
+        "id": "tt5503946",
+        "year": "2006"
+    },
+    "Stagecoach": {
+        "primary": "Stagecoach",
+        "id": "tt7138882",
+        "year": "2017"
+    },
+    "Ironiya sudby, ili S legkim parom!": {
+        "primary": "Ironiya sudby, ili S legkim parom!",
+        "id": "tt0073179",
+        "year": "1975"
+    },
+    "Les sous-dou\u00e9s": {
+        "primary": "The Under-Gifted",
+        "id": "tt0081541",
+        "year": "1980"
+    },
+    "I Confess": {
+        "primary": "I Confess",
+        "id": "tt5457882",
+        "year": "2010"
+    },
+    "Dead Reckoning": {
+        "primary": "Dead Reckoning",
+        "id": "tt8941510",
+        "year": "2018"
+    },
+    "Tootsie": {
+        "primary": "Tootsie",
+        "id": "tt5654218",
+        "year": "2016"
+    },
+    "Birdman of Alcatraz": {
+        "primary": "Birdman of Alcatraz",
+        "id": "tt0055798",
+        "year": 1962
+    },
+    "To Kill a Mockingbird": {
+        "primary": "To Kill a Mockingbird",
+        "id": "tt0056592",
+        "year": 1962
+    },
+    "The Glass Key": {
+        "primary": "The Glass Key",
+        "id": "tt10820914",
+        "year": "1960"
+    },
+    "This Gun for Hire": {
+        "primary": "McCoy",
+        "id": "tt0128743",
+        "year": "1996"
+    },
+    "Sullivan's Travels": {
+        "primary": "Sullivan's Travels",
+        "id": "tt3956842",
+        "year": "2014"
+    },
+    "Seven Days in May": {
+        "primary": "Seven Days in May",
+        "id": "tt0058576",
+        "year": 1964
+    },
+    "The Asphalt Jungle": {
+        "primary": "The Asphalt Jungle",
+        "id": "tt5339184",
+        "year": "2001"
+    },
+    "Badlands": {
+        "primary": "Badlands",
+        "id": "tt9795288",
+        "year": "2019"
+    },
+    "Smultronst\u00e4llet": {
+        "primary": "Wild Strawberries",
+        "id": "tt0050986",
+        "year": 1957
+    },
+    "Witness for the Prosecution": {
+        "primary": "Witness for the Prosecution",
+        "id": "tt7852996",
+        "year": "2018"
+    },
+    "Tonari no Totoro": {
+        "primary": "My Neighbor Totoro",
+        "id": "tt0096283",
+        "year": "1988"
+    },
+    "L'homme du train": {
+        "primary": "Man on the Train",
+        "id": "tt0301414",
+        "year": "2002"
+    },
+    "Suspicion": {
+        "primary": "Suspicion",
+        "id": "tt9913542",
+        "year": "2019"
+    },
+    "Arlette": {
+        "primary": "Arlette",
+        "id": "tt0115567",
+        "year": "1997"
+    },
+    "Ne goryuy!": {
+        "primary": "Ne goryuy!",
+        "id": "tt0123186",
+        "year": "1968"
+    },
+    "Whisky Galore!": {
+        "primary": "Whisky Galore!",
+        "id": "tt0758126",
+        "year": "2003"
+    },
+    "Morte a Venezia": {
+        "primary": "Death in Venice",
+        "id": "tt0067445",
+        "year": "1971"
+    },
+    "Na Deribasovskoy khoroshaya pogoda, ili Na Brayton-Bich opyat idut dozhdi": {
+        "primary": "Na Deribasovskoy khoroshaya pogoda, ili Na Brayton-Bich opyat idut dozhdi",
+        "id": "tt0104962",
+        "year": "1993"
+    },
+    "Den radio": {
+        "primary": "Den radio",
+        "id": "tt5952180",
+        "year": "2003"
+    },
+    "Seven Years in Tibet": {
+        "primary": "Seven Years in Tibet",
+        "id": "tt0405304",
+        "year": "1959"
+    },
+    "Obsluhoval jsem anglick\u00e9ho kr\u00e1le": {
+        "primary": "I Served the King of England",
+        "id": "tt0284363",
+        "year": "2006"
+    },
+    "Metro": {
+        "primary": "Metro",
+        "id": "tt9833698",
+        "year": "2019"
+    },
+    "La femme d'\u00e0 c\u00f4t\u00e9": {
+        "primary": "La femme d'\u00e0 c\u00f4t\u00e9",
+        "id": "tt3769066",
+        "year": "1998"
+    },
+    "My Blueberry Nights": {
+        "primary": "My Blueberry Nights",
+        "id": "tt0765120",
+        "year": "2007"
+    },
+    "The Straight Story": {
+        "primary": "The Straight Story",
+        "id": "tt11532876",
+        "year": "2019"
+    },
+    "Slumdog Millionaire": {
+        "primary": "Slumdog Millionaire",
+        "id": "tt9885332",
+        "year": "2009"
+    },
+    "Zhenitba Balzaminova": {
+        "primary": "Zhenitba Balzaminova",
+        "id": "tt0098706",
+        "year": "1989"
+    },
+    "Les jours o\u00f9 je n'existe pas": {
+        "primary": "The Days When I Do Not Exist",
+        "id": "tt0365398",
+        "year": "2002"
+    },
+    "Ulitsa polna neozhidannostey": {
+        "primary": "Ulitsa polna neozhidannostey",
+        "id": "tt0051124",
+        "year": 1958
+    },
+    "Les aventures de Rabbi Jacob": {
+        "primary": "Les aventures de Rabbi Jacob",
+        "id": "tt1386635",
+        "year": "2009"
+    },
+    "The Odd Couple": {
+        "primary": "The Odd Couple",
+        "id": "tt9426882",
+        "year": "2018"
+    },
+    "Psy": {
+        "primary": "Psy",
+        "id": "tt9719374",
+        "year": "\\N"
+    },
+    "Populaire": {
+        "primary": "Populaire",
+        "id": "tt9810750",
+        "year": "2019"
+    },
+    "The Last Picture Show": {
+        "primary": "The Last Picture Show",
+        "id": "tt6289812",
+        "year": "1988"
+    },
+    "6 donne per l'assassino": {
+        "primary": "Blood and Black Lace",
+        "id": "tt0058567",
+        "year": 1964
+    },
+    "Say Anything...": {
+        "primary": "Say Anything...",
+        "id": "tt0098258",
+        "year": "1989"
+    },
+    "Notorious": {
+        "primary": "Notorious",
+        "id": "tt8937524",
+        "year": "2018"
+    },
+    "The Trouble with Harry": {
+        "primary": "The Trouble with Harry",
+        "id": "tt7027908",
+        "year": "\\N"
+    },
+    "Il conformista": {
+        "primary": "The Conformist",
+        "id": "tt0065571",
+        "year": 1970
+    },
+    "Save the Tiger": {
+        "primary": "Save the Tiger",
+        "id": "tt5748138",
+        "year": "\\N"
+    },
+    "Breakfast at Tiffany's": {
+        "primary": "Breakfast at Tiffany's",
+        "id": "tt4732994",
+        "year": "2015"
+    },
+    "Sabrina": {
+        "primary": "Sabrina",
+        "id": "tt8890416",
+        "year": "1963"
+    },
+    "Irma la Douce": {
+        "primary": "Irma la Douce",
+        "id": "tt0308416",
+        "year": "1972"
+    },
+    "Nuns on the Run": {
+        "primary": "Nuns on the Run",
+        "id": "tt0100280",
+        "year": "1990"
+    },
+    "The Philadelphia Story": {
+        "primary": "The Philadelphia Story",
+        "id": "tt1119823",
+        "year": "1959"
+    },
+    "The Apartment": {
+        "primary": "The Apartment",
+        "id": "tt9014876",
+        "year": "2015"
+    },
+    "Damage": {
+        "primary": "Damage",
+        "id": "tt9042686",
+        "year": "2019"
+    },
+    "Forrest Gump": {
+        "primary": "Forrest Gump",
+        "id": "tt7229174",
+        "year": "2014"
+    },
+    "La strada": {
+        "primary": "La strada",
+        "id": "tt2537066",
+        "year": "2012"
+    },
+    "On Golden Pond": {
+        "primary": "On Golden Pond",
+        "id": "tt0282040",
+        "year": "2001"
+    },
+    "Zhenitba": {
+        "primary": "Zhenitba",
+        "id": "tt1620644",
+        "year": "2010"
+    },
+    "The Good Son": {
+        "primary": "The Good Son",
+        "id": "tt9182144",
+        "year": "2018"
+    },
+    "Love in the Afternoon": {
+        "primary": "Love in the Afternoon",
+        "id": "tt6710970",
+        "year": "2013"
+    },
+    "Who Was That Lady?": {
+        "primary": "Who Was That Lady?",
+        "id": "tt2174277",
+        "year": "1974"
+    },
+    "My Cousin Vinny": {
+        "primary": "My Cousin Vinny",
+        "id": "tt1288080",
+        "year": "2008"
+    },
+    "Faubourg 36": {
+        "primary": "Paris 36",
+        "id": "tt0948535",
+        "year": "2008"
+    },
+    "Insomnia": {
+        "primary": "Insomnia",
+        "id": "tt9686950",
+        "year": "2018"
+    },
+    "L'aile ou la cuisse": {
+        "primary": "The Wing or The Thigh?",
+        "id": "tt0074103",
+        "year": "1976"
+    },
+    "Wanted": {
+        "primary": "Wanted",
+        "id": "tt8232974",
+        "year": "2018"
+    },
+    "The 300 Spartans": {
+        "primary": "The 300 Spartans",
+        "id": "tt8792410",
+        "year": "2018"
+    },
+    "The Lavender Hill Mob": {
+        "primary": "The Lavender Hill Mob",
+        "id": "tt11188170",
+        "year": "2018"
+    },
+    "Raw Deal": {
+        "primary": "Raw Deal",
+        "id": "tt7895650",
+        "year": "2018"
+    },
+    "Lifeboat": {
+        "primary": "Lifeboat",
+        "id": "tt8346454",
+        "year": "2018"
+    },
+    "The Bridge on the River Kwai": {
+        "primary": "The Bridge on the River Kwai",
+        "id": "tt1104322",
+        "year": "2007"
+    },
+    "O Brother, Where Art Thou?": {
+        "primary": "O Brother, Where Art Thou?",
+        "id": "tt9294008",
+        "year": "2019"
+    },
+    "The Wild One": {
+        "primary": "The Wild One",
+        "id": "tt7196230",
+        "year": "\\N"
+    },
+    "The Whole Ten Yards": {
+        "primary": "The Whole Ten Yards",
+        "id": "tt0327247",
+        "year": "2004"
+    },
+    "The Whole Nine Yards": {
+        "primary": "The Whole Nine Yards",
+        "id": "tt0601606",
+        "year": "1988"
+    },
+    "Bluff storia di truffe e di imbroglioni": {
+        "primary": "High Rollers",
+        "id": "tt0076101",
+        "year": "1976"
+    },
+    "La fille sur le pont": {
+        "primary": "Girl on the Bridge",
+        "id": "tt0144201",
+        "year": "1999"
+    },
+    "Bakenbardy": {
+        "primary": "Bakenbardy",
+        "id": "tt0099097",
+        "year": "1990"
+    },
+    "Le gendarme et les extra-terrestres": {
+        "primary": "The Troops & Aliens",
+        "id": "tt0079200",
+        "year": "1979"
+    },
+    "Le gendarme et les gendarmettes": {
+        "primary": "The Troops & Troop-ettes",
+        "id": "tt0083996",
+        "year": "1982"
+    },
+    "Hibernatus": {
+        "primary": "Hibernatus",
+        "id": "tt7515384",
+        "year": "2014"
+    },
+    "La folie des grandeurs": {
+        "primary": "Delusions of Grandeur",
+        "id": "tt0067108",
+        "year": "1971"
+    },
+    "Le gendarme en balade": {
+        "primary": "The Troops on Vacation",
+        "id": "tt0065769",
+        "year": 1970
+    },
+    "Le gendarme se marie": {
+        "primary": "The Troops get Married",
+        "id": "tt0063005",
+        "year": 1968
+    },
+    "Le gendarme \u00e0 New York": {
+        "primary": "The Troops in New York",
+        "id": "tt0060450",
+        "year": 1965
+    },
+    "Le gendarme de Saint-Tropez": {
+        "primary": "The Troops of St. Tropez",
+        "id": "tt0058135",
+        "year": 1964
+    },
+    "The Emperor's Club": {
+        "primary": "The Emperor's Club",
+        "id": "tt0283530",
+        "year": "2002"
+    },
+    "Problem Child 2": {
+        "primary": "Problem Child 2",
+        "id": "tt0102719",
+        "year": "1991"
+    },
+    "15 Minutes": {
+        "primary": "15 Minutes",
+        "id": "tt9054216",
+        "year": "2019"
+    },
+    "Ivan Brovkin na tseline": {
+        "primary": "Ivan Brovkin na tseline",
+        "id": "tt0051789",
+        "year": 1959
+    },
+    "Soldat Ivan Brovkin": {
+        "primary": "Private Ivan",
+        "id": "tt0048639",
+        "year": 1955
+    },
+    "Koroleva benzokolonki": {
+        "primary": "Koroleva benzokolonki",
+        "id": "tt0057232",
+        "year": 1963
+    },
+    "12 stulev": {
+        "primary": "12 stulev",
+        "id": "tt3963494",
+        "year": "2004"
+    },
+    "Ne mozhet byt!": {
+        "primary": "Ne mozhet byt!",
+        "id": "tt4973698",
+        "year": "2008"
+    },
+    "Kavkazskaya plennitsa, ili Novye priklyucheniya Shurika": {
+        "primary": "Kidnapping, Caucasian Style",
+        "id": "tt0060584",
+        "year": 1967
+    },
+    "Ivan Vasilevich menyaet professiyu": {
+        "primary": "Ivan Vasilievich: Back to the Future",
+        "id": "tt0070233",
+        "year": "1973"
+    },
+    "Brilliantovaya ruka": {
+        "primary": "The Diamond Arm",
+        "id": "tt0062759",
+        "year": 1969
+    },
+    "Children of the Corn": {
+        "primary": "Children of the Corn",
+        "id": "tt7579218",
+        "year": "2017"
+    },
+    "Problem Child": {
+        "primary": "Problem Child",
+        "id": "tt7310220",
+        "year": "2017"
+    },
+    "Tre fratelli": {
+        "primary": "Three Brothers",
+        "id": "tt0083226",
+        "year": "1981"
+    },
+    "Ripoux 3": {
+        "primary": "Ripoux 3",
+        "id": "tt0351795",
+        "year": "2003"
+    },
+    "Ripoux contre ripoux": {
+        "primary": "My New Partner at the Races",
+        "id": "tt0100496",
+        "year": "1990"
+    },
+    "Les ripoux": {
+        "primary": "My New Partner",
+        "id": "tt0088002",
+        "year": "1984"
+    },
+    "Just Visiting": {
+        "primary": "Just Visiting",
+        "id": "tt5207784",
+        "year": "2015"
+    },
+    "Barefoot in the Park": {
+        "primary": "Barefoot in the Park",
+        "id": "tt0313258",
+        "year": "1982"
+    },
+    "In weiter Ferne, so nah!": {
+        "primary": "Faraway, So Close!",
+        "id": "tt0107209",
+        "year": "1993"
+    },
+    "Following": {
+        "primary": "Following",
+        "id": "tt8503814",
+        "year": "2012"
+    },
+    "Sweet Smell of Success": {
+        "primary": "Sweet Smell of Success",
+        "id": "tt6355010",
+        "year": "1989"
+    },
+    "The Boat That Rocked": {
+        "primary": "Pirate Radio",
+        "id": "tt1131729",
+        "year": "2009"
+    },
+    "Autumn in New York": {
+        "primary": "Autumn in New York",
+        "id": "tt1265355",
+        "year": "2007"
+    },
+    "Quick Change": {
+        "primary": "Quick Change",
+        "id": "tt3439950",
+        "year": "1967"
+    },
+    "We're No Angels": {
+        "primary": "We're No Angels",
+        "id": "tt1212761",
+        "year": "1981"
+    },
+    "The Day They Robbed the Bank of England": {
+        "primary": "The Day They Robbed the Bank of England",
+        "id": "tt0053752",
+        "year": 1960
+    },
+    "East of Eden": {
+        "primary": "East of Eden",
+        "id": "tt7043596",
+        "year": "2017"
+    },
+    "The Horse's Mouth": {
+        "primary": "The Horse's Mouth",
+        "id": "tt1963798",
+        "year": "1996"
+    },
+    "Midnight in Paris": {
+        "primary": "Midnight in Paris",
+        "id": "tt7084500",
+        "year": "2011"
+    },
+    "The Big Clock": {
+        "primary": "The Big Clock",
+        "id": "tt0040160",
+        "year": 1948
+    },
+    "Matrimonio all'italiana": {
+        "primary": "Marriage Italian Style",
+        "id": "tt0058335",
+        "year": 1964
+    },
+    "Belle de jour": {
+        "primary": "Belle de jour",
+        "id": "tt0808167",
+        "year": "2000"
+    },
+    "Arthur": {
+        "primary": "Arthur",
+        "id": "tt9810092",
+        "year": "2019"
+    },
+    "Paisa": {
+        "primary": "Paisa",
+        "id": "tt4574448",
+        "year": "2013"
+    },
+    "I soliti ignoti": {
+        "primary": "I soliti ignoti",
+        "id": "tt1599739",
+        "year": "2009"
+    },
+    "Away from Her": {
+        "primary": "Away from Her",
+        "id": "tt1083768",
+        "year": "2007"
+    },
+    "Giorni d'amore": {
+        "primary": "Days of Love",
+        "id": "tt0047024",
+        "year": 1954
+    },
+    "The Elephant Man": {
+        "primary": "The Elephant Man",
+        "id": "tt8973532",
+        "year": "\\N"
+    },
+    "The Wrong Man": {
+        "primary": "The Wrong Man",
+        "id": "tt7609034",
+        "year": "2017"
+    },
+    "December Boys": {
+        "primary": "December Boys",
+        "id": "tt0465436",
+        "year": "2007"
+    },
+    "Miracolo a Milano": {
+        "primary": "Miracolo a Milano",
+        "id": "tt1468815",
+        "year": "2008"
+    },
+    "Breaking the Waves": {
+        "primary": "Breaking the Waves",
+        "id": "tt8690024",
+        "year": "2014"
+    },
+    "Papa Giovanni - Ioannes XXIII": {
+        "primary": "Pope John XXIII",
+        "id": "tt0317009",
+        "year": "2002"
+    },
+    "Sommarnattens leende": {
+        "primary": "Smiles of a Summer Night",
+        "id": "tt0048641",
+        "year": 1955
+    },
+    "Needful Things": {
+        "primary": "Needful Things",
+        "id": "tt8456168",
+        "year": "2017"
+    },
+    "Habemus Papam": {
+        "primary": "We Have a Pope",
+        "id": "tt1456472",
+        "year": "2011"
+    },
+    "Cul-de-sac": {
+        "primary": "Cul-de-sac",
+        "id": "tt5598098",
+        "year": "2015"
+    },
+    "Take the Money and Run": {
+        "primary": "Take the Money and Run",
+        "id": "tt8959806",
+        "year": "2018"
+    },
+    "Mystic River": {
+        "primary": "Mystic River",
+        "id": "tt6667768",
+        "year": "2017"
+    },
+    "Angst essen Seele auf": {
+        "primary": "Ali: Fear Eats the Soul",
+        "id": "tt0071141",
+        "year": "1974"
+    },
+    "The Killing": {
+        "primary": "The Killing",
+        "id": "tt7577072",
+        "year": "2016"
+    },
+    "Going My Way": {
+        "primary": "Going My Way",
+        "id": "tt10343792",
+        "year": "\\N"
+    },
+    "The Big Lebowski": {
+        "primary": "The Big Lebowski",
+        "id": "tt5802034",
+        "year": "2011"
+    },
+    "La grande vadrouille": {
+        "primary": "La Grande Vadrouille",
+        "id": "tt0060474",
+        "year": 1966
+    },
+    "I Wanna Hold Your Hand": {
+        "primary": "I Wanna Hold Your Hand",
+        "id": "tt7244050",
+        "year": "2017"
+    },
+    "Giulietta degli spiriti": {
+        "primary": "Juliet of the Spirits",
+        "id": "tt0059229",
+        "year": 1965
+    },
+    "Youth Without Youth": {
+        "primary": "Youth Without Youth",
+        "id": "tt0481797",
+        "year": "2007"
+    },
+    "Gentleman's Agreement": {
+        "primary": "Gentleman's Agreement",
+        "id": "tt1693323",
+        "year": "2008"
+    },
+    "Two Bits": {
+        "primary": "Two Bits",
+        "id": "tt1669840",
+        "year": "2010"
+    },
+    "Blackboard Jungle": {
+        "primary": "Blackboard Jungle",
+        "id": "tt9125372",
+        "year": "2018"
+    },
+    "Control": {
+        "primary": "Control",
+        "id": "tt9578266",
+        "year": "2017"
+    },
+    "When Nietzsche Wept": {
+        "primary": "When Nietzsche Wept",
+        "id": "tt0760188",
+        "year": "2007"
+    },
+    "La soupe aux choux": {
+        "primary": "The Cabbage Soup",
+        "id": "tt0083109",
+        "year": "1981"
+    },
+    "New York Stories": {
+        "primary": "New York Stories",
+        "id": "tt3234174",
+        "year": "2013"
+    },
+    "Kafka": {
+        "primary": "Kafka",
+        "id": "tt7386208",
+        "year": "2017"
+    },
+    "Iris": {
+        "primary": "Iris",
+        "id": "tt9808384",
+        "year": "2018"
+    },
+    "A Fish Called Wanda": {
+        "primary": "A Fish Called Wanda",
+        "id": "tt1231651",
+        "year": "2004"
+    },
+    "Withnail & I": {
+        "primary": "Withnail & I",
+        "id": "tt0094336",
+        "year": "1987"
+    },
+    "Robin and the 7 Hoods": {
+        "primary": "Robin and the 7 Hoods",
+        "id": "tt0058529",
+        "year": 1964
+    },
+    "4 for Texas": {
+        "primary": "4 for Texas",
+        "id": "tt0057071",
+        "year": 1963
+    },
+    "The Bucket List": {
+        "primary": "The Bucket List",
+        "id": "tt8633834",
+        "year": "2018"
+    },
+    "V for Vendetta": {
+        "primary": "V for Vendetta",
+        "id": "tt9547632",
+        "year": "\\N"
+    },
+    "Chuchelo": {
+        "primary": "Chuchelo",
+        "id": "tt0272047",
+        "year": "1992"
+    },
+    "Sunset Blvd.": {
+        "primary": "Sunset Blvd.",
+        "id": "tt0820596",
+        "year": "2006"
+    },
+    "The Ladykillers": {
+        "primary": "The Ladykillers",
+        "id": "tt11188176",
+        "year": "2018"
+    },
+    "Kind Hearts and Coronets": {
+        "primary": "Kind Hearts and Coronets",
+        "id": "tt11187176",
+        "year": "2014"
+    },
+    "Great Expectations": {
+        "primary": "Great Expectations",
+        "id": "tt8706244",
+        "year": "2018"
+    },
+    "Ray": {
+        "primary": "Ray",
+        "id": "tt9844102",
+        "year": "2018"
+    },
+    "Walk the Line": {
+        "primary": "Walk the Line",
+        "id": "tt8661348",
+        "year": "2014"
+    },
+    "Hauru no ugoku shiro": {
+        "primary": "Howl's Moving Castle",
+        "id": "tt0347149",
+        "year": "2004"
+    },
+    "Roman Holiday": {
+        "primary": "Roman Holiday",
+        "id": "tt5865064",
+        "year": "2016"
+    },
+    "La leggenda del pianista sull'oceano": {
+        "primary": "The Legend of 1900",
+        "id": "tt0120731",
+        "year": "1998"
+    },
+    "North by Northwest": {
+        "primary": "North by Northwest",
+        "id": "tt8400790",
+        "year": "2017"
+    },
+    "Leon": {
+        "primary": "Leon",
+        "id": "tt9093664",
+        "year": "2018"
+    },
+    "Touch of Evil": {
+        "primary": "Touch of Evil",
+        "id": "tt7476186",
+        "year": "2017"
+    },
+    "The Graduate": {
+        "primary": "The Graduate",
+        "id": "tt9208142",
+        "year": "2019"
+    },
+    "Bonnie and Clyde": {
+        "primary": "Bonnie and Clyde",
+        "id": "tt9728478",
+        "year": "2018"
+    },
+    "Rash\u00f4mon": {
+        "primary": "Rash\u00f4mon",
+        "id": "tt2759632",
+        "year": "1941"
+    },
+    "M - Eine Stadt sucht einen M\u00f6rder": {
+        "primary": "M - A City Hunts a Murderer",
+        "id": "tt7028444",
+        "year": "2019"
+    },
+    "Singin' in the Rain": {
+        "primary": "Singin' in the Rain",
+        "id": "tt7422362",
+        "year": "2017"
+    },
+    "Vertigo": {
+        "primary": "Vertigo",
+        "id": "tt9287174",
+        "year": "2011"
+    },
+    "Lawrence of Arabia": {
+        "primary": "Lawrence of Arabia",
+        "id": "tt7236574",
+        "year": "2016"
+    },
+    "Sen to Chihiro no kamikakushi": {
+        "primary": "Spirited Away",
+        "id": "tt0245429",
+        "year": "2001"
+    },
+    "The Dreamers": {
+        "primary": "The Dreamers",
+        "id": "tt9720900",
+        "year": "2017"
+    },
+    "Stealing Beauty": {
+        "primary": "Stealing Beauty",
+        "id": "tt3463696",
+        "year": "2014"
+    },
+    "Io e te": {
+        "primary": "Me and You",
+        "id": "tt1801061",
+        "year": "2012"
+    },
+    "A River Runs Through It": {
+        "primary": "A River Runs Through It",
+        "id": "tt3119554",
+        "year": "2011"
+    },
+    "Unforgiven": {
+        "primary": "Unforgiven",
+        "id": "tt8937572",
+        "year": "2018"
+    },
+    "Groundhog Day": {
+        "primary": "Groundhog Day",
+        "id": "tt9556338",
+        "year": "2018"
+    },
+    "Lost in Translation": {
+        "primary": "Lost in Translation",
+        "id": "tt9897262",
+        "year": "2019"
+    },
+    "Eternal Sunshine of the Spotless Mind": {
+        "primary": "Eternal Sunshine of the Spotless Mind",
+        "id": "tt8514240",
+        "year": "2016"
+    },
+    "The Servant": {
+        "primary": "The Servant",
+        "id": "tt8730986",
+        "year": "2018"
+    },
+    "High Noon": {
+        "primary": "High Noon",
+        "id": "tt9887984",
+        "year": "2018"
+    },
+    "Per un pugno di dollari": {
+        "primary": "A Fistful of Dollars",
+        "id": "tt0058461",
+        "year": 1964
+    },
+    "Per qualche dollaro in pi\u00f9": {
+        "primary": "Per qualche dollaro in pi\u00f9",
+        "id": "tt1114371",
+        "year": "1998"
+    },
+    "Providence": {
+        "primary": "Providence",
+        "id": "tt9233488",
+        "year": "\\N"
+    },
+    "Picnic at Hanging Rock": {
+        "primary": "Picnic at Hanging Rock",
+        "id": "tt6038954",
+        "year": "2018"
+    },
+    "Some Like It Hot": {
+        "primary": "Some Like It Hot",
+        "id": "tt8961524",
+        "year": "2018"
+    },
+    "Schindler's List": {
+        "primary": "Schindler's List",
+        "id": "tt9426036",
+        "year": "2018"
+    },
+    "The Green Mile": {
+        "primary": "The Green Mile",
+        "id": "tt9703054",
+        "year": "2019"
+    },
+    "Four Weddings and a Funeral": {
+        "primary": "Four Weddings and a Funeral",
+        "id": "tt7587362",
+        "year": "2019"
+    },
+    "Love Actually": {
+        "primary": "Love Actually",
+        "id": "tt8351610",
+        "year": "2018"
+    },
+    "The Ox-Bow Incident": {
+        "primary": "The Ox-Bow Incident",
+        "id": "tt0048462",
+        "year": 1955
+    },
+    "Union Pacific": {
+        "primary": "Union Pacific",
+        "id": "tt5822608",
+        "year": "2016"
+    },
+    "My Own Private Idaho": {
+        "primary": "My Own Private Idaho",
+        "id": "tt5651282",
+        "year": "2013"
+    },
+    "Murder by Death": {
+        "primary": "Murder by Death",
+        "id": "tt0074937",
+        "year": "1976"
+    },
+    "His Girl Friday": {
+        "primary": "His Girl Friday",
+        "id": "tt4266924",
+        "year": "2014"
+    },
+    "Bringing Up Baby": {
+        "primary": "Bringing Up Baby",
+        "id": "tt9133484",
+        "year": "2017"
+    },
+    "Paris, Texas": {
+        "primary": "Paris, Texas",
+        "id": "tt0087884",
+        "year": "1984"
+    },
+    "Der Himmel \u00fcber Berlin": {
+        "primary": "Wings of Desire",
+        "id": "tt0093191",
+        "year": "1987"
+    },
+    "Dialogue avec mon jardinier": {
+        "primary": "Conversations with My Gardener",
+        "id": "tt0825244",
+        "year": "2007"
+    },
+    "Un crime au paradis": {
+        "primary": "A Crime in Paradise",
+        "id": "tt0245530",
+        "year": "2001"
+    },
+    "God Bless America": {
+        "primary": "God Bless America",
+        "id": "tt9144552",
+        "year": "2019"
+    },
+    "Ocean's Eleven": {
+        "primary": "Ocean's Eleven",
+        "id": "tt7406712",
+        "year": "2017"
+    },
+    "Suddenly": {
+        "primary": "Suddenly",
+        "id": "tt8333526",
+        "year": "\\N"
+    },
+    "The Third Man": {
+        "primary": "The Third Man",
+        "id": "tt7685526",
+        "year": "2015"
+    },
+    "Moscow on the Hudson": {
+        "primary": "Moscow on the Hudson",
+        "id": "tt0087747",
+        "year": "1984"
+    },
+    "Giant": {
+        "primary": "Giant",
+        "id": "tt9594298",
+        "year": "2018"
+    },
+    "Rebel Without a Cause": {
+        "primary": "Rebel Without a Cause",
+        "id": "tt5791446",
+        "year": "2016"
+    },
+    "Psycho": {
+        "primary": "Psycho",
+        "id": "tt9916030",
+        "year": "1968"
+    },
+    "Les quatre cents coups": {
+        "primary": "The 400 Blows",
+        "id": "tt0053198",
+        "year": 1959
+    },
+    "Dead Poets Society": {
+        "primary": "Dead Poets Society",
+        "id": "tt9037200",
+        "year": "2014"
+    },
+    "Sluzhebnyy roman": {
+        "primary": "Office Romance",
+        "id": "tt0076727",
+        "year": "1977"
+    },
+    "The Silence of the Lambs": {
+        "primary": "The Silence of the Lambs",
+        "id": "tt8372506",
+        "year": "2019"
+    },
+    "12 Angry Men": {
+        "primary": "12 Angry Men",
+        "id": "tt7879140",
+        "year": "2018"
+    },
+    "Il buono, il brutto, il cattivo": {
+        "primary": "The Good, the Bad and the Ugly",
+        "id": "tt0060196",
+        "year": 1966
+    },
+    "One Flew Over the Cuckoo's Nest": {
+        "primary": "One Flew Over the Cuckoo's Nest",
+        "id": "tt6710426",
+        "year": "2017"
+    },
+    "The Pianist": {
+        "primary": "The Pianist",
+        "id": "tt6059384",
+        "year": "2016"
+    },
+    "The Godfather": {
+        "primary": "The Godfather",
+        "id": "tt9905338",
+        "year": "2019"
+    },
+    "Knockin' on Heaven's Door": {
+        "primary": "Knockin' on Heaven's Door",
+        "id": "tt5578902",
+        "year": "2016"
+    },
+    "The Shawshank Redemption": {
+        "primary": "The Shawshank Redemption",
+        "id": "tt7308124",
+        "year": "2017"
+    },
+    "H\u00f4tel des Am\u00e9riques": {
+        "primary": "Hotel America",
+        "id": "tt0082539",
+        "year": "1981"
+    },
+    "Pokrovskie vorota": {
+        "primary": "Pokrov Gates",
+        "id": "tt0083465",
+        "year": "1983"
+    },
+    "Letyat zhuravli": {
+        "primary": "The Cranes Are Flying",
+        "id": "tt0050634",
+        "year": 1957
+    },
+    "Interstate 60": {
+        "primary": "Interstate 60",
+        "id": "tt7211594",
+        "year": "2017"
+    },
+    "Misery": {
+        "primary": "Misery",
+        "id": "tt9332660",
+        "year": "2018"
+    },
+    "Dolores Claiborne": {
+        "primary": "Dolores Claiborne",
+        "id": "tt7328876",
+        "year": "2017"
+    },
+    "Vabank II, czyli riposta": {
+        "primary": "Vabank II, czyli riposta",
+        "id": "tt0090246",
+        "year": "1985"
+    },
+    "Dezha vyu": {
+        "primary": "Dezha vyu",
+        "id": "tt0097253",
+        "year": "1990"
+    },
+    "Repulsion": {
+        "primary": "Repulsion",
+        "id": "tt7053904",
+        "year": "2017"
+    },
+    "Milou en mai": {
+        "primary": "May Fools",
+        "id": "tt0097884",
+        "year": "1990"
+    },
+    "Au revoir les enfants": {
+        "primary": "Au Revoir les Enfants",
+        "id": "tt0092593",
+        "year": "1987"
+    },
+    "Rope": {
+        "primary": "Rope",
+        "id": "tt7383560",
+        "year": "2015"
+    },
+    "Rear Window": {
+        "primary": "Rear Window",
+        "id": "tt7719864",
+        "year": "2017"
+    },
+    "Double Indemnity": {
+        "primary": "Double Indemnity",
+        "id": "tt7668028",
+        "year": "\\N"
+    },
+    "Kiss of Death": {
+        "primary": "Kiss of Death",
+        "id": "tt7371948",
+        "year": "2017"
+    },
+    "Roma citt\u00e0 aperta": {
+        "primary": "Rome, Open City",
+        "id": "tt0038890",
+        "year": 1945
+    },
+    "Ladri di biciclette": {
+        "primary": "Bicycle Thieves",
+        "id": "tt0040522",
+        "year": 1948
+    },
+    "The Country Girl": {
+        "primary": "The Country Girl",
+        "id": "tt3599512",
+        "year": "1907"
+    },
+    "Meilleur espoir f\u00e9minin": {
+        "primary": "Most Promising Young Actress",
+        "id": "tt0216911",
+        "year": "2000"
+    },
+    "The Man Who Shot Liberty Valance": {
+        "primary": "The Man Who Shot Liberty Valance",
+        "id": "tt5076622",
+        "year": "\\N"
+    },
+    "Broken Flowers": {
+        "primary": "Broken Flowers",
+        "id": "tt7040376",
+        "year": "2017"
+    },
+    "Trois couleurs: Rouge": {
+        "primary": "Three Colors: Red",
+        "id": "tt0111495",
+        "year": "1994"
+    },
+    "Le vieux fusil": {
+        "primary": "The Old Gun",
+        "id": "tt0073864",
+        "year": "1975"
+    },
+    "La vie et rien d'autre": {
+        "primary": "Life and Nothing But",
+        "id": "tt0098596",
+        "year": "1989"
+    },
+    "Le notti bianche": {
+        "primary": "Le notti bianche",
+        "id": "tt1550855",
+        "year": "2009"
+    },
+    "Le Diable et les Dix Commandements": {
+        "primary": "The Devil and the Ten Commandments",
+        "id": "tt0055904",
+        "year": 1962
+    },
+    "Rio Bravo": {
+        "primary": "Rio Bravo",
+        "id": "tt0053221",
+        "year": 1959
+    },
+    "The Horse Soldiers": {
+        "primary": "The Horse Soldiers",
+        "id": "tt0052902",
+        "year": 1959
+    },
+    "Il portiere di notte": {
+        "primary": "The Night Porter",
+        "id": "tt0071910",
+        "year": "1974"
+    },
+    "Topio stin omihli": {
+        "primary": "Landscape in the Mist",
+        "id": "tt0096288",
+        "year": "1988"
+    },
+    "Bedtime Story": {
+        "primary": "Bedtime Story",
+        "id": "tt8987688",
+        "year": "2018"
+    }
+}
